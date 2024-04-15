@@ -16906,7 +16906,7 @@ $E=====4157=====
 $E=====4158=====
 //<LABEL=COFFIN>äªâ±âÆ(Ç©ÇÒÇ®ÇØÇ‚)</LABEL>
 //ÅuèoóàÇΩÇº!!Åv
-<LABEL=COFFIN>Coffin Shipkeeper</LABEL>:
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
 "It's ready!"
 $E=====4159=====
 <PROC=0>
