@@ -4739,7 +4739,7 @@ $E=====1530=====
 //「クロ」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Photograph
-"Kuro"
+"Nero"
 obtained!</LABEL><PROC=1>
 $E=====1531=====
 <PROC=0>
@@ -9434,7 +9434,7 @@ $E=====2630=====
 Violet
 $E=====2631=====
 //クロ
-Kuro
+Nero
 $E=====2632=====
 //キッド
 Kid
@@ -13661,7 +13661,7 @@ $E=====3511=====
 //<LABEL=LADY>ミステリアスな女性</LABEL>
 //「ありがとう、クロちゃん
 <LABEL=LADY>Mysterious Woman</LABEL>:
-"Thank you, Kuro,
+"Thank you, Nero,
 $E=====3512=====
 //でもあなたには、大切なお仕事
 //があるでしょ?
@@ -13678,7 +13678,7 @@ $E=====3514=====
 $E=====3515=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャ!」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow!"
 $E=====3516=====
 <PROC=0>
@@ -16217,7 +16217,7 @@ adventuring?
 $E=====4007=====
 //それじゃあ、おるすばんはスミ
 //レとクロちゃんがするからね
-Then me an' Kuro will keep
+Then me an' Nero will keep
 taking care of your house.
 $E=====4008=====
 //そうこをつかいたいときは、い
@@ -16509,7 +16509,7 @@ $E=====4073=====
 //スミレもクロちゃんとがっしん
 //したーい!!」
 Lucky...
-I wanna combine with Kuro!"
+I wanna combine with Nero!"
 $E=====4074=====
 <PROC=0>
 <END>
@@ -17290,7 +17290,7 @@ $E=====4231=====
 //「クロちゃんったら、あいかわ
 //らずねてばっかりなの
 <LABEL=SUMIRE>Violet</LABEL>:
-"All Kuro ever does is
+"All Nero ever does is
 sleep,
 $E=====4232=====
 //おきたとおもったら、すぐにど
@@ -17308,7 +17308,7 @@ $E=====4234=====
 $E=====4235=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4236=====
 //<LABEL=SUMIRE>スミレ</LABEL>
@@ -17327,7 +17327,7 @@ $E=====4239=====
 $E=====4240=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?
 $E=====4241=====
 //・・・
@@ -17354,7 +17354,7 @@ $E=====4246=====
 $E=====4247=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4248=====
 <PROC=0>
@@ -17362,7 +17362,7 @@ $E=====4248=====
 $E=====4249=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4250=====
 <PROC=0>
@@ -17370,7 +17370,7 @@ $E=====4250=====
 $E=====4251=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4252=====
 <PROC=0>
@@ -17378,7 +17378,7 @@ $E=====4252=====
 $E=====4253=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4254=====
 <PROC=0>
@@ -17386,7 +17386,7 @@ $E=====4254=====
 $E=====4255=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4256=====
 <PROC=0>
@@ -17394,7 +17394,7 @@ $E=====4256=====
 $E=====4257=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4258=====
 <PROC=0>
@@ -17402,7 +17402,7 @@ $E=====4258=====
 $E=====4259=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4260=====
 <PROC=0>
@@ -17410,7 +17410,7 @@ $E=====4260=====
 $E=====4261=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4262=====
 <PROC=0>
@@ -17418,7 +17418,7 @@ $E=====4262=====
 $E=====4263=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4264=====
 <PROC=0>
@@ -17426,7 +17426,7 @@ $E=====4264=====
 $E=====4265=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4266=====
 <PROC=0>
@@ -17434,7 +17434,7 @@ $E=====4266=====
 $E=====4267=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4268=====
 <PROC=0>
@@ -17442,7 +17442,7 @@ $E=====4268=====
 $E=====4269=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4270=====
 <PROC=0>
@@ -17450,7 +17450,7 @@ $E=====4270=====
 $E=====4271=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア・・・」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow..."
 $E=====4272=====
 <PROC=0>
