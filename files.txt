@@ -21,6 +21,7 @@ map_names.ips            - Translates place names on the world map and in San Mi
 menu_titles.ips          - Translates captions at the top of menu screens
 name_entry.ips           - Converts name entry screen to English
 latest_translation.ips   - Includes all above patches
+status_screen.ips	 - Translates small text on the Status/Inventory/Store screens (Add to latest_translation.ip when complete)
 solar_sensor_hack.ips    - Change solar sensor by pressing left/right while holding R
 
 /MenuEd/   Spikeman's graphical tile editor
