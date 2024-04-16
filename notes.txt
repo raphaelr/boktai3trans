@@ -226,7 +226,7 @@ Start of pointer table: 8D6B1F8
 
 Notes:
 - Graphics located at 70A230
-- Tilemap is loaded from 70C238 at 8216716
+- Tilemap is loaded from 70C238 at 8216716 (Add/subtract 200 for each map)
   - Looks like it's compressed somehow (I think it's custom)
 
 Titles:
