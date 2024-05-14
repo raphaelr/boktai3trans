@@ -4739,7 +4739,7 @@ $E=====1530=====
 //「クロ」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Photograph
-"Nero"
+"Kuro"
 obtained!</LABEL><PROC=1>
 $E=====1531=====
 <PROC=0>
@@ -8001,7 +8001,7 @@ $E=====2227=====
 Win
 $E=====2228=====
 //負
-Lose
+Loss
 $E=====2229=====
 //引き分け
 Tie
@@ -8038,12 +8038,13 @@ Creating course. Please wait.
 $C=====2240=====
 //強い日差しや気温の変化に注意
 //して、もう一度対戦しますか?
-Battle again? Be careful around strong sunlight and high temperatures.
+Rematch? Be careful under
+harsh sunlight/temperatures.
 $E=====2241=====
 //他のプレイヤーが選択中です。
 //しばらくお待ちください。
 The other player is making a
-selecting. Please wait.
+selection. Please wait.
 $E=====2242=====
 //対戦の準備中です。
 Preparing for battle.
@@ -8880,11 +8881,14 @@ $E=====2480=====
 
 <WEIGHT>Lead Translator</WEIGHT>
 Darth Nemesis
+
+<WEIGHT>Additional Translation</WEIGHT>
+Rienne
 $E=====2481=====
 //<WEIGHT>原案</WEIGHT>
 //小島秀夫
 <WEIGHT>Programming</WEIGHT>
-SpikeMan    Darth Nemesis
+SpikeMan    Darth Nemesis    LanHikariDS
 
 <WEIGHT>Localization/Continuity</WEIGHT>
 LordHuffnPuff
@@ -8962,7 +8966,7 @@ Nobuyoshi Nishimura
 
 <WEIGHT>Publicity Design</WEIGHT>
 Hajime Yashiro
-$C=====2490=====
+$C=====2490===== //FIXIT
 //<WEIGHT>おてんこデザイン</WEIGHT>
 <WEIGHT>Otenko Design</WEIGHT>
 飯尾史哉　　　　大塚隼人
@@ -8982,7 +8986,7 @@ $E=====2492=====
 <WEIGHT>Production Support</WEIGHT>
 Takeshi Eguchi
 Takaaki Kitamura
-$C=====2493=====
+$C=====2493===== //FIXIT
 //<WEIGHT>プロモーション</WEIGHT>
 <WEIGHT>Promotion</WEIGHT>
 倉野次郎　　　　千葉茂
@@ -8995,7 +8999,7 @@ $E=====2495=====
 //<WEIGHT>任天堂株式会社</WEIGHT>
 
 <WEIGHT>Nintendo Corporation</WEIGHT>
-$C=====2496=====
+$C=====2496===== //FIXIT
 //<WEIGHT>コロコロコミック編集部</WEIGHT>
 <WEIGHT>CoroCoro Comic</WEIGHT>
 　佐上靖之
@@ -9009,34 +9013,34 @@ $E=====2497=====
 <WEIGHT>Capcom Corporation</WEIGHT>
 
   Keiji Inafune
-$C=====2498=====
+$C=====2498===== //FIXIT
 　堀之内健
 　安間正博
 　江口正和
 　穴井俊英
 　佐藤和隆
 　坂野光徳
-$C=====2499=====
+$C=====2499===== //FIXIT
 　竹中司
 　松田幸悦
 　田原武文
 　尾崎浩平
 　緒良中隆浩
-$C=====2500=====
+$C=====2500===== //FIXIT
 //<WEIGHT>赤城乳業株式会社</WEIGHT>
 <WEIGHT>AKAGI NYUGYO Corporation</WEIGHT>
 　本田文彦
 　萩原史雄
-$C=====2501=====
+$C=====2501===== //FIXIT
 //<WEIGHT>有限会社 G</WEIGHT>
 <WEIGHT>G Produce Company</WEIGHT>
 　楠原美夏
 　高橋俊之
-$C=====2502=====
+$C=====2502===== //FIXIT
 吉池博明　　　　松井博信
 小林政哉　　　　田中修平
 土田裕之　　　　細谷宜史
-$C=====2503=====
+$C=====2503===== //FIXIT
 古城宏　　　　　田中智之
 山中智美　　　　宮本知子
 山内恵美子
@@ -9434,7 +9438,7 @@ $E=====2630=====
 Violet
 $E=====2631=====
 //クロ
-Nero
+Kuro
 $E=====2632=====
 //キッド
 Kid
@@ -13661,7 +13665,7 @@ $E=====3511=====
 //<LABEL=LADY>ミステリアスな女性</LABEL>
 //「ありがとう、クロちゃん
 <LABEL=LADY>Mysterious Woman</LABEL>:
-"Thank you, Nero,
+"Thank you, Kuro,
 $E=====3512=====
 //でもあなたには、大切なお仕事
 //があるでしょ?
@@ -13678,7 +13682,7 @@ $E=====3514=====
 $E=====3515=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャ!」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow!"
 $E=====3516=====
 <PROC=0>
@@ -16217,7 +16221,7 @@ adventuring?
 $E=====4007=====
 //それじゃあ、おるすばんはスミ
 //レとクロちゃんがするからね
-Then me an' Nero will keep
+Then me an' Kuro will keep
 taking care of your house.
 $E=====4008=====
 //そうこをつかいたいときは、い
@@ -16509,7 +16513,7 @@ $E=====4073=====
 //スミレもクロちゃんとがっしん
 //したーい!!」
 Lucky...
-I wanna combine with Nero!"
+I wanna combine with Kuro!"
 $E=====4074=====
 <PROC=0>
 <END>
@@ -17290,7 +17294,7 @@ $E=====4231=====
 //「クロちゃんったら、あいかわ
 //らずねてばっかりなの
 <LABEL=SUMIRE>Violet</LABEL>:
-"All Nero ever does is
+"All Kuro ever does is
 sleep,
 $E=====4232=====
 //おきたとおもったら、すぐにど
@@ -17308,7 +17312,7 @@ $E=====4234=====
 $E=====4235=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4236=====
 //<LABEL=SUMIRE>スミレ</LABEL>
@@ -17327,7 +17331,7 @@ $E=====4239=====
 $E=====4240=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?
 $E=====4241=====
 //・・・
@@ -17354,7 +17358,7 @@ $E=====4246=====
 $E=====4247=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4248=====
 <PROC=0>
@@ -17362,7 +17366,7 @@ $E=====4248=====
 $E=====4249=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4250=====
 <PROC=0>
@@ -17370,7 +17374,7 @@ $E=====4250=====
 $E=====4251=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4252=====
 <PROC=0>
@@ -17378,7 +17382,7 @@ $E=====4252=====
 $E=====4253=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4254=====
 <PROC=0>
@@ -17386,7 +17390,7 @@ $E=====4254=====
 $E=====4255=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4256=====
 <PROC=0>
@@ -17394,7 +17398,7 @@ $E=====4256=====
 $E=====4257=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4258=====
 <PROC=0>
@@ -17402,7 +17406,7 @@ $E=====4258=====
 $E=====4259=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4260=====
 <PROC=0>
@@ -17410,7 +17414,7 @@ $E=====4260=====
 $E=====4261=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4262=====
 <PROC=0>
@@ -17418,7 +17422,7 @@ $E=====4262=====
 $E=====4263=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4264=====
 <PROC=0>
@@ -17426,7 +17430,7 @@ $E=====4264=====
 $E=====4265=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4266=====
 <PROC=0>
@@ -17434,7 +17438,7 @@ $E=====4266=====
 $E=====4267=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4268=====
 <PROC=0>
@@ -17442,7 +17446,7 @@ $E=====4268=====
 $E=====4269=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4270=====
 <PROC=0>
@@ -17450,7 +17454,7 @@ $E=====4270=====
 $E=====4271=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア・・・」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow..."
 $E=====4272=====
 <PROC=0>
