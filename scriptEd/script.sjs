@@ -8593,11 +8593,15 @@ $E=====2418=====
 // 太陽センサーと?
  SOLAR SENSOR & ? ? ?
 $C=====2419=====
-「新・ボクらの太陽」では、カ
-ートリッジ上部の太陽センサー
-に太陽の光を当てることにより
-ゲームの中でさまざまな効果を
-楽しむことが出来ます。
+//「新・ボクらの太陽」では、カ
+//ートリッジ上部の太陽センサー
+//に太陽の光を当てることにより
+//ゲームの中でさまざまな効果を
+//楽しむことが出来ます。
+Make sunlight hit the
+Solar Sensor on the
+Game Pak & you can enjoy
+many effects in BOKTAI3.
 $C=====2420=====
 「新・ボクらの太陽」では、カ
 ートリッジ上部の太陽センサー
@@ -8878,18 +8882,15 @@ Takako Kodama
 $E=====2480=====
 //<WEIGHT>スタッフ</WEIGHT>
 <WEIGHT>TRANSLATION TEAM</WEIGHT>
-
 <WEIGHT>Lead Translator</WEIGHT>
 Darth Nemesis
-
 <WEIGHT>Additional Translation</WEIGHT>
 Rienne
 $E=====2481=====
 //<WEIGHT>原案</WEIGHT>
 //小島秀夫
 <WEIGHT>Programming</WEIGHT>
-SpikeMan    Darth Nemesis    LanHikariDS
-
+SpikeMan    Darth Nemesis     LanHikariDS
 <WEIGHT>Localization/Continuity</WEIGHT>
 LordHuffnPuff
 $E=====2482=====
@@ -9063,6 +9064,8 @@ $E=====2506=====
 <WEIGHT>Special Thanks</WEIGHT>
 Porojoa        MAX
 samiamwork     Ryken
+EmosewaMC      Seren
+R93_Sniper
 $E=====2507=====
 //<WEIGHT>制作/著作</WEIGHT>
 //コナミ株式会社
