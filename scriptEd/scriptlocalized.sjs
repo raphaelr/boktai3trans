@@ -2384,7 +2384,7 @@ $E=====864=====
 LA VIE EN ROSE
 $E=====865=====
 //ロックバスター
-ROCKBUSTER
+MEGABUSTER
 $E=====866=====
 //Lv.<VAR=0>　威力:<VAR=1>　古代の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
 Lv.<VAR=0>  Power:<VAR=1>  An ancient longsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
@@ -2532,7 +2532,7 @@ $E=====913=====
 Lv.??  Power:??  Proof of Doomy's love. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====914=====
 //Lv.??　威力:<VAR=1>　ロックマンとの友情の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.??  Power:<VAR=1>  Proof of Rockman's friendship. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.??  Power:<VAR=1>  Proof of MegaMan's friendship. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====915=====
 
 $E=====916=====
@@ -4189,7 +4189,7 @@ $E=====1420=====
 //「ロックエンブレム」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Option
-"Rock Emblem"
+"Mega Emblem"
 obtained!</LABEL><PROC=1>
 $E=====1421=====
 <PROC=0>
@@ -4519,7 +4519,7 @@ $E=====1486=====
 //「ロックブルー」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Color
-"Rock Blue"
+"Mega Blue"
 obtained!</LABEL><PROC=1>
 $E=====1487=====
 <PROC=0>
@@ -4599,7 +4599,7 @@ $E=====1502=====
 //「ロックマン」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Stuffed Doll
-"Rockman"
+"MegaMan"
 obtained!</LABEL><PROC=1>
 $E=====1503=====
 <PROC=0>
@@ -4879,7 +4879,7 @@ $E=====1558=====
 //「ロックマン」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Photograph
-"Megaman"
+"MegaMan"
 obtained!</LABEL><PROC=1>
 $E=====1559=====
 <PROC=0>
@@ -4949,7 +4949,7 @@ $E=====1579=====
 $E=====1580=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //ここに会話が入るよ。
-<LABEL=ROCKMAN>Megaman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 A conversation goes here.
 $E=====1581=====
 <PROC=0>
@@ -8093,7 +8093,7 @@ $E=====2252=====
 MAGIC STEP
 $E=====2253=====
 //ロックエンブレム
-ROCK EMBLEM
+MEGA EMBLEM
 $E=====2254=====
 //プラチナプラグ
 PLATINUM PLUG
@@ -8165,7 +8165,7 @@ $E=====2276=====
 An energy-reinforced riding step. Raises Attack.
 $E=====2277=====
 //ロックマンの力が宿ったエンブレム。攻撃力アップ(大)。
-An emblem with the power of Megaman. Greatly raises Attack.
+An emblem with the power of MegaMan. Greatly raises Attack.
 $E=====2278=====
 //高性能スパークプラグ。加速力アップ(小)。
 A high efficiency spark plug. Slightly raises Accel.
@@ -8504,7 +8504,7 @@ $E=====2388=====
 TRINITY SP
 $E=====2389=====
 //ロックブルー
-ROCK BLUE
+MEGA BLUE
 $E=====2390=====
 //棺桶(かんおけ)の灰。無と不安の色。
 Coffin ash. The color of anxiety and nothingness.
@@ -8593,11 +8593,15 @@ $E=====2418=====
 // 太陽センサーと?
  SOLAR SENSOR & ? ? ?
 $C=====2419=====
-「新・ボクらの太陽」では、カ
-ートリッジ上部の太陽センサー
-に太陽の光を当てることにより
-ゲームの中でさまざまな効果を
-楽しむことが出来ます。
+//「新・ボクらの太陽」では、カ
+//ートリッジ上部の太陽センサー
+//に太陽の光を当てることにより
+//ゲームの中でさまざまな効果を
+//楽しむことが出来ます。
+Make sunlight hit the
+Solar Sensor on the
+Game Pak & you can enjoy
+many effects in BOKTAI3.
 $C=====2420=====
 「新・ボクらの太陽」では、カ
 ートリッジ上部の太陽センサー
@@ -8878,18 +8882,15 @@ Takako Kodama
 $E=====2480=====
 //<WEIGHT>スタッフ</WEIGHT>
 <WEIGHT>TRANSLATION TEAM</WEIGHT>
-
 <WEIGHT>Lead Translator</WEIGHT>
 Darth Nemesis
-
 <WEIGHT>Additional Translation</WEIGHT>
 Rienne
 $E=====2481=====
 //<WEIGHT>原案</WEIGHT>
 //小島秀夫
 <WEIGHT>Programming</WEIGHT>
-SpikeMan    Darth Nemesis    LanHikariDS
-
+SpikeMan    Darth Nemesis     LanHikariDS
 <WEIGHT>Localization/Continuity</WEIGHT>
 LordHuffnPuff
 $E=====2482=====
@@ -9063,6 +9064,8 @@ $E=====2506=====
 <WEIGHT>Special Thanks</WEIGHT>
 Porojoa        MAX
 samiamwork     Ryken
+EmosewaMC      Seren
+R93_Sniper
 $E=====2507=====
 //<WEIGHT>制作/著作</WEIGHT>
 //コナミ株式会社
@@ -16385,8 +16388,8 @@ $E=====4045=====
 //「ろっくまん えぐぜ!
 //とらんすみっしょん!!」
 <LABEL=SUMIRE>Violet</LABEL>:
-"Jack in!!!
-MegaMan, Execute!!!"
+"Jack in!
+MegaMan, Execute!!"
 $E=====4046=====
 <PROC=0>
 <END>
@@ -19833,7 +19836,7 @@ $E=====4745=====
  
 $E=====4746=====
 //ロックマンのぬいぐるみだ
-A stuffed doll of MegaMan.
+A stuffed doll of Megaman.
 $E=====4747=====
 <PROC=0>
 <END>
@@ -20119,7 +20122,7 @@ $E=====4805=====
 // <ALTER>プラグアウト</ALTER>
 <LABEL=ROCKMAN></LABEL>What do you want to do?
  <ALTER>Point Exchange</ALTER>  <ALTER>Gather Info</ALTER>
- <ALTER>Plug Out</ALTER>
+ <ALTER>Jack Out</ALTER>
 $E=====4806=====
 <PROC=0>
 <END>
@@ -20127,7 +20130,7 @@ $E=====4807=====
 //<LABEL=ROCKMAN></LABEL>何をしようか?」
 // <ALTER>情報収集</ALTER>　<ALTER>プラグアウト</ALTER>
 <LABEL=ROCKMAN></LABEL>What do you want to do?
- <ALTER>Gather Info</ALTER>  <ALTER>Plug Out</ALTER>
+ <ALTER>Gather Info</ALTER>  <ALTER>Jack Out</ALTER>
 $E=====4808=====
 <PROC=0>
 <END>

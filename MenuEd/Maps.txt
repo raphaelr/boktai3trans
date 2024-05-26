@@ -12,7 +12,7 @@ Map Address:	68EFD4
 Block Address:	68E754
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-ACDEFHIKLNOPRSTW
+
 ~~~~~Sealed Prison
 Tile Address:	69A4C0
 Map Address:	69F558
