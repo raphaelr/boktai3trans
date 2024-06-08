@@ -8775,10 +8775,10 @@ $E=====2452=====
 BIKE BATTLE
 $E=====2453=====
 //データ配信
-Data Transfer
+DATA TRANSFER
 $E=====2454=====
 //クロスオーバーバトル2
-Crossover Battle 2
+CROSSOVER BATTLE 2
 $E=====2455=====
 //ロードに失敗しました。
 //セーブデータが存在しないか、
@@ -14019,7 +14019,7 @@ $E=====3583=====
 //きりがないんだから・・・
 I swear, there's just no end
 to the killing...
-$E=====3584=====
+$E=====3584===== //FIXIT LINE BREAK
 //手配書を張(は)っておくから、
 //また、お願いね?」
 well, I've posted the Request
@@ -14890,7 +14890,7 @@ $E=====3749=====
 //<LABEL=ZAJI>ザジ</LABEL>
 //「おおっ、<NAME>!!
 //ついにやりよったな!
-<LABEL=ZAJI>ザジ</LABEL>
+<LABEL=ZAJI>Zazie</LABEL>
 "Yo, <NAME>!
 Yer finally did it!
 $E=====3750=====

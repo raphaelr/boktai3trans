@@ -1,3 +1,78 @@
+~~~~~Katakana Keyboard
+Tile Address:	65211C
+Map Address:	656F54
+Block Address:	6560DC
+~~~~~Hiragana Keyboard
+Tile Address:	65211C
+Map Address:	657154
+Block Address:	6560DC
+~~~~~Time Setting
+Tile Address:	65211C
+Map Address:	657354
+Block Address:	6560DC
+~~~~~Region Setting
+Tile Address:	65211C
+Map Address:	657554
+Block Address:	6560DC
+~~~~~Game Start
+Tile Address:	65211C
+Map Address:	657754
+Block Address:	6560DC
+~~~~~<PLAYER NAME> Is this Ok?
+Tile Address:	65211C
+Map Address:	657954
+Block Address:	6560DC
+~~~~~Sensor Setting (GBA)
+Tile Address:	65211C
+Map Address:	657B54
+Block Address:	6560DC
+~~~~~Sensor Setting (GBA SP)
+Tile Address:	65211C
+Map Address:	657D54
+Block Address:	6560DC
+~~~~~Password Keyboard
+Tile Address:	65211C
+Map Address:	657F54
+Block Address:	6560DC
+~~~~~Settings
+Tile Address:	65211C
+Map Address:	658154
+Block Address:	6560DC
+~~~~~Sound Test
+Tile Address:	65211C
+Map Address:	658354
+Block Address:	6560DC
+~~~~~Four lines? Not quite sure...?
+Tile Address:	65211C
+Map Address:	658554
+Block Address:	6560DC
+~~~~~Blank, maybe Link Menu?
+Tile Address:	65211C
+Map Address:	658754
+Block Address:	6560DC
+~~~~~Bestiary
+Tile Address:	65211C
+Map Address:	658954
+Block Address:	6560DC
+~~~~~Bestiary Details
+Tile Address:	65211C
+Map Address:	658B54
+Block Address:	6560DC
+~~~~~Weapon Guide
+Tile Address:	65211C
+Map Address:	658D54
+Block Address:	6560DC
+~~~~~Album
+Tile Address:	65211C
+Map Address:	658F54
+Block Address:	6560DC
+~~~~~Missions menu
+Tile Address:	65211C
+Map Address:	659154
+Block Address:	6560DC
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ~~~~~Konami Logo
 Tile Address:	68B8D4
 Map Address:	68EBD4

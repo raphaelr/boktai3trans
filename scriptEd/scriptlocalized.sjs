@@ -2753,13 +2753,13 @@ $E=====987=====
 Dark lens.
 $E=====988=====
 //回復薬
-HEALING POTION
+HEALER
 $E=====989=====
 //大地の実
-EARTH FRUIT
+EARTHLY NUT
 $E=====990=====
 //くさった実
-ROTTEN FRUIT
+ROTTEN NUT
 $E=====991=====
 //干し肉
 JERKY
@@ -2792,7 +2792,7 @@ $E=====1000=====
 MAGICAL POTION
 $E=====1001=====
 //太陽の実
-SOLAR FRUIT
+SOLAR NUT
 $E=====1002=====
 //悪いキノコ
 BAD MUSHROOM
@@ -2807,19 +2807,19 @@ $E=====1005=====
 DROP OF SUN
 $E=====1006=====
 //がまんの実
-ENDURANCE FRUIT
+BEARNUT
 $E=====1007=====
 //はやさの実
-SPEED FRUIT
+SPEED NUT
 $E=====1008=====
 //ちからの実
-POWER FRUIT
+POWER NUT
 $E=====1009=====
 //チョコバナナ
 CHOCOLATE BANANA
 $E=====1010=====
 //しのびの実
-STEALTH FRUIT
+TIPTOE NUT
 $E=====1011=====
 //赤いキノコ
 REDSHROOM
@@ -2828,7 +2828,7 @@ $E=====1012=====
 BLUESHROOM
 $E=====1013=====
 //千里眼の実
-CLAIRVOYANCE FRUIT
+SEE-ALL NUT
 $E=====1014=====
 //転移の葉
 WARP LEAF
@@ -7712,7 +7712,7 @@ $E=====2150=====
 $E=====2151=====
 //「太陽の実」
 //を手に入れた!!
-"Solar Fruit"
+"Solar Nut"
 obtained!
 $E=====2152=====
 <PROC=0>
@@ -8540,7 +8540,7 @@ $E=====2400=====
 Future Boy purple. The color of creation and destruction.
 $E=====2401=====
 //ロックマンの青。友情と知性(ちせい)の色。
-Megaman blue. The color of friendship and intelligence.
+MegaMan blue. The color of friendship and intelligence.
 $E=====2402=====
 //パーツをつけかえる。
 Select parts.
@@ -8775,10 +8775,10 @@ $E=====2452=====
 BIKE BATTLE
 $E=====2453=====
 //データ配信
-Data Transfer
+DATA TRANSFER
 $E=====2454=====
 //クロスオーバーバトル2
-Crossover Battle 2
+CROSSOVER BATTLE 2
 $E=====2455=====
 //ロードに失敗しました。
 //セーブデータが存在しないか、
@@ -9483,7 +9483,7 @@ $E=====2644=====
 ???
 $E=====2645=====
 //ロックマン
-Megaman
+MegaMan
 $E=====2646=====
 //ガリガリ君
 GariGari-kun
@@ -11088,13 +11088,13 @@ $E=====3012=====
 <PROC=9>
 <PROC=0>
 <END>
-$E=====3013=====
+$E=====3013===== //FIXIT Check line length
 //<LABEL=RITA>リタ</LABEL>
 //「大地の実やおいしい肉などの
 //生ものは、
 <LABEL=RITA>Lita</LABEL>:
-"Perishables, like Earth
-Fruit and Tasty Meat,
+"Perishables, like Earthly
+Nut and Tasty Meat,
 $E=====3014=====
 //回復量が大きい代わりに、太陽
 //の光を浴びすぎると、くさって
@@ -14019,7 +14019,7 @@ $E=====3583=====
 //きりがないんだから・・・
 I swear, there's just no end
 to the killing...
-$E=====3584=====
+$E=====3584===== //FIXIT LINE BREAK
 //手配書を張(は)っておくから、
 //また、お願いね?」
 well, I've posted the Request
@@ -14890,7 +14890,7 @@ $E=====3749=====
 //<LABEL=ZAJI>ザジ</LABEL>
 //「おおっ、<NAME>!!
 //ついにやりよったな!
-<LABEL=ZAJI>ザジ</LABEL>
+<LABEL=ZAJI>Zazie</LABEL>
 "Yo, <NAME>!
 Yer finally did it!
 $E=====3750=====
@@ -19836,7 +19836,7 @@ $E=====4745=====
  
 $E=====4746=====
 //ロックマンのぬいぐるみだ
-A stuffed doll of Megaman.
+A stuffed doll of MegaMan.
 $E=====4747=====
 <PROC=0>
 <END>
@@ -37866,14 +37866,14 @@ Tree.
 $E=====8679=====
 //その中でも特にエナジーが豊富
 //(ほうふ)な太陽の実だ
-Called a Solar Fruit, it
+Called a Solar Nut, it
 contains a copious amount of
 energy.
 $E=====8680=====
 //太陽の実を使ってエナジーを回
 //復(かいふく)すれば、
 If you recover your energy
-with a Solar Fruit,
+with a Solar Nut,
 $E=====8681=====
 //太陽銃(ガン・デル・ソル)を使
 //うことができる
