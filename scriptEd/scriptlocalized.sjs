@@ -8625,7 +8625,7 @@ with artificial light.
 $E=====2423=====
 //「シンボク」では、太陽センサ
 //ーが感知した太陽の光が、
-IN "BOKTAI 3," the rays
+IN "BOKTAI3," the rays
 caught by the sensor
 affect the game world.
 $E=====2424=====
@@ -20376,8 +20376,8 @@ $E=====4859=====
 //「ブルースとカーネルのぬいぐ
 //るみ・・・
 <LABEL=ROCKMAN>MegaMan</LABEL>:
-"The stuffed dolls of ProtoMan
-and Colonel...
+"The stuffed dolls of
+ProtoMan and Colonel...
 $E=====4860=====
 //両方とも見つけたみたいだね!
 Looks like you found both of
@@ -34990,7 +34990,7 @@ $E=====8039=====
 or the future!
 $E=====8040=====
 //それとも・・・
-Or pehaps...
+Or perhaps...
 $E=====8041=====
 //すべてをあきらめ、このおれを
 //受け入れるのか?
@@ -41313,7 +41313,7 @@ $E=====9396=====
   Magic Cannon
 $E=====9397=====
 // あきらめない心 
-  Perseverence
+  Perseverance
 $E=====9398=====
 // あきらめと絶望 
 Loss and Despair
@@ -42216,8 +42216,8 @@ $E=====9753=====
 //シンボクとエグゼ6、それぞれ
 //のゲームで伯爵(はくしゃく)と
 //戦い、
-For Boktai 3 and Rockman EXE
-6, each game has its own
+For Boktai3 and Rockman EXE6,
+each game has its own
 battle against the Count.
 $E=====9754=====
 //伯爵(はくしゃく)を先にたおす

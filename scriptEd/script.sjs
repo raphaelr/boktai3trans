@@ -8601,7 +8601,7 @@ $C=====2419=====
 Make sunlight hit the
 Solar Sensor on the
 Game Pak & you can enjoy
-many effects in BOKTAI3.
+many effects in BOKTAI 3.
 $C=====2420=====
 「新・ボクらの太陽」では、カ
 ートリッジ上部の太陽センサー
@@ -34990,7 +34990,7 @@ $E=====8039=====
 or the future!
 $E=====8040=====
 //それとも・・・
-Or pehaps...
+Or perhaps...
 $E=====8041=====
 //すべてをあきらめ、このおれを
 //受け入れるのか?
@@ -41313,7 +41313,7 @@ $E=====9396=====
   Magic Cannon
 $E=====9397=====
 // あきらめない心 
-  Perseverence
+  Perseverance
 $E=====9398=====
 // あきらめと絶望 
 Loss and Despair
