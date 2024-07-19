@@ -41152,21 +41152,23 @@ $E=====9343=====
 No Data
 $E=====9344=====
 LV.
-$E=====9345=====
+$E=====9345===== //TODO Changed for factual accuracy, change back if Boktai 2 passwords get supported
 //「続・ボクらの太陽」の
 //パスワードを入力しますか?
-Enter Boktai 2 password?
+Enter Zoku Bokura no Taiyou
+password?
+//Enter Boktai2 password?
 $E=====9346=====
 //「続・ボクらの太陽」のデータ
 //を引き継ぎました。
-Boktai 2 data loaded
+Boktai2 data loaded
 successfully.
 $E=====9347=====
 //パスワードが間違っています。
 Incorrect password.
 $E=====9348=====
 //ゾクタイでの称号
-BOKTAI 2 TITLES
+BOKTAI2 TITLES
 $E=====9349=====
 //名前:
 Name:
@@ -42605,7 +42607,7 @@ $E=====9849=====
 CROW
 $E=====9850=====
 //レイブン
-RAVEN
+GARGOYLE
 $E=====9851=====
 //センチピード
 CENTIPEDE
@@ -42629,7 +42631,7 @@ $E=====9857=====
 OCTOPUS
 $E=====9858=====
 //グール
-GHOUL
+GHOUL(BOK)
 $E=====9859=====
 //ゾンビ
 ZOMBIE
@@ -42641,7 +42643,7 @@ $E=====9861=====
 MUMMY
 $E=====9862=====
 //ガスト
-GHAST
+GUST
 $E=====9863=====
 //マミー+
 MUMMY +
@@ -42797,7 +42799,7 @@ $E=====9913=====
 GHOST
 $E=====9914=====
 //レイス
-WRAITH
+LEYS
 $E=====9915=====
 //伯爵
 Count

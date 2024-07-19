@@ -41152,10 +41152,12 @@ $E=====9343=====
 No Data
 $E=====9344=====
 LV.
-$E=====9345=====
+$E=====9345===== //TODO Changed for factual accuracy, change back if Boktai 2 passwords get supported
 //「続・ボクらの太陽」の
 //パスワードを入力しますか?
-Enter Boktai 2 password?
+Enter Zoku Bokura no Taiyou
+password?
+//Enter Boktai 2 password?
 $E=====9346=====
 //「続・ボクらの太陽」のデータ
 //を引き継ぎました。
