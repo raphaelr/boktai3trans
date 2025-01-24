@@ -3290,13 +3290,13 @@ $E=====1165=====
 A helmet with the power of Colonel. Defends against Poison, Confuse, and Paralysis from enemy attacks.
 $E=====1166=====
 //革(かわ)の鎧(よろい)。カラダが上がる(小)。
-Leather armor. Slightly raises VIT.
+Leather armor. Slightly raises Vitality.
 $E=====1167=====
 //金属(きんぞく)の輪をつなぎ合わせた鎧(よろい)。カラダが上がる(中)。
-Armor made of linked metal rings. Raises VIT.
+Armor made of linked metal rings. Raises Vitality.
 $E=====1168=====
 //板金(いたがね)の鎧(よろい)。カラダが上がる(大)。
-Armor made of metal plates. Greatly raises VIT.
+Armor made of metal plates. Greatly raises Vitality.
 $E=====1169=====
 //火竜の牙(きば)から作られた鎧(よろい)。フレイムに強くなり、フロストに弱くなる。
 Armor made from a Fire Dragon Fang. Strengthens Flame, weakens Frost.
@@ -3314,7 +3314,7 @@ $E=====1173=====
 Rain cloak. Protects from the rain.
 $E=====1174=====
 //魔法の鎧(よろい)。ココロが高いほど受けるダメージがへり、チカラが下がる。
-Magical armor. Damage taken decreases as SPR increases. Decreases STR.
+Magical armor. Damage taken decreases as Spirit increases. Decreases Strength.
 $E=====1175=====
 //装備(そうび)した者を守る鎧(よろい)。攻撃(こうげき)を受けると自動的に反撃(はんげき)する。
 Armor that protects the user through automatic counter attacks.
@@ -3338,10 +3338,10 @@ $E=====1181=====
 A mantle with the power of Forte. Halves damage taken.
 $E=====1182=====
 //重りの入った腕輪(うでわ)。チカラが上がる(中)。ソードの受けるダメージが2倍になる。
-A heavy bracelet. Raises STR. Doubles damage taken when using a sword.
+A heavy bracelet. Raises Strength. Doubles damage taken when using a sword.
 $E=====1183=====
 //呪文(じゅもん)のきざまれた腕輪(うでわ)。チカラが上がる(大)。エナジーの消費量が2倍になる。
-A bracelet engraved with a charm. Greatly raises STR. Doubles energy consumption.
+A bracelet engraved with a charm. Greatly raises Strength. Doubles energy consumption.
 $E=====1184=====
 //クラブの紋章(もんしょう)。縦斬(たてぎ)りであたえるダメージがふえる。
 The crest of clubs. Increases damage dealt by vertical cuts.
@@ -3353,7 +3353,7 @@ $E=====1186=====
 A tiny shield. Halves damage taken when using a sword.
 $E=====1187=====
 //魔法の手甲(てっこう)。ココロが高いほどソードであたえるダメージがふえ、チカラが下がる。
-Magical gauntlet. Damage dealt increases as SPR increases. Decreases STR.
+Magical gauntlet. Damage dealt increases as Spirit increases. Decreases Strength.
 $E=====1188=====
 //白騎士(しろきし)の手甲(てっこう)。昼間あたえるダメージがふえ、夜間あたえるダメージがへる。
 A white knight's gauntlet. Increases damage dealt during the day, decreases damage dealt at night.
@@ -3374,10 +3374,10 @@ $E=====1193=====
 Iron clogs. Wind has no effect. Decreases movement speed.
 $E=====1194=====
 //オモチャの靴(くつ)。カラダとチカラが上がる(小)。移動(いどう)時におかしな音がする。
-Toy shoes. Slightly raises VIT and STR. Movement makes a strange sound.
+Toy shoes. Slightly raises Vitality and Strength. Movement makes a strange sound.
 $E=====1195=====
 //重りの入った脚輪(あしわ)。カラダとチカラが上がる(中)。アイテムがくさりやすくなる。
-A heavy ankle band. Raises VIT and STR. Items spoil faster.
+A heavy ankle band. Raises Vitality and Strength. Items spoil faster.
 $E=====1196=====
 //じょうぶな靴(くつ)。精霊虫(せいれいちゅう)の効果(こうか)が2倍になる。
 Durable shoes. Doubles effectiveness of Spirit Bugs.
@@ -6314,7 +6314,7 @@ $E=====1849=====
 <PROC=0>
 <END>
 $E=====1850=====
-/船にそなえ付けられた大砲(た
+//船にそなえ付けられた大砲(た
 //いほう)は、
 The cannons on Nidhoggr's
 back...
@@ -8035,7 +8035,7 @@ Press <WEIGHT>START</WEIGHT> to begin the battle. Press the <WEIGHT>B Button</WE
 $E=====2239=====
 //コースを設定中です。しばらくお待ちください。
 Creating course. Please wait.
-$C=====2240=====
+$E=====2240=====
 //強い日差しや気温の変化に注意
 //して、もう一度対戦しますか?
 Rematch? Be careful under
@@ -8592,7 +8592,7 @@ $E=====2417=====
 $E=====2418=====
 // 太陽センサーと?
  SOLAR SENSOR & ? ? ?
-$C=====2419=====
+$E=====2419=====
 //「新・ボクらの太陽」では、カ
 //ートリッジ上部の太陽センサー
 //に太陽の光を当てることにより
@@ -8602,12 +8602,16 @@ Make sunlight hit the
 Solar Sensor on the
 Game Pak & you can enjoy
 many effects in BOKTAI 3.
-$C=====2420=====
-「新・ボクらの太陽」では、カ
-ートリッジ上部の太陽センサー
-に太陽の光を当てることにより
-ゲームの中でさまざまな効果を
+$E=====2420=====
+//「新・ボクらの太陽」では、カ
+//ートリッジ上部の太陽センサー
+//に太陽の光を当てることにより
+//ゲームの中でさまざまな効果を
 楽しむことが出来ます。
+Make sunlight hit the
+Solar Sensor on the
+Game Pak & you can enjoy
+many effects in BOKTAI 3.
 $E=====2421=====
 //カートリッジ上部にある太陽セ
 //ンサーは、太陽の光の強さを感
@@ -8808,16 +8812,16 @@ $E=====2462=====
 $E=====2463=====
 //        バイクバトル
         BIKE BATTLE
-$C=====2464=====
+$C=====2464===== //FIXIT
 //最初のステージを体験プレイ!!
 Try beginner stage!
-$C=====2465=====
+$C=====2465===== //FIXIT
 //バトルドライブと新・ジャンゴを体験プレイ!!
 Try Battle Drive with New Django!
-$C=====2466=====
+$C=====2466===== //FIXIT
 //バイクのカスタマイズとアクションを体験プレイ!!
 Try Bike Custom and Bike Action!
-$C=====2467=====
+$C=====2467===== //FIXIT
 //バイクによる二人用通信対戦を体験プレイ!!
 Try 2-Player Link Battle!
 $X=====2468=====
@@ -8885,12 +8889,14 @@ $E=====2480=====
 <WEIGHT>Lead Translator</WEIGHT>
 Darth Nemesis
 <WEIGHT>Additional Translation</WEIGHT>
-Rienne
+Rienne    EmosewaMC
 $E=====2481=====
 //<WEIGHT>原案</WEIGHT>
 //小島秀夫
 <WEIGHT>Programming</WEIGHT>
-SpikeMan    Darth Nemesis     LanHikariDS
+SpikeMan    Darth Nemesis
+LanHikariDS    Raphi
+
 <WEIGHT>Localization/Continuity</WEIGHT>
 LordHuffnPuff
 $E=====2482=====
@@ -8917,13 +8923,9 @@ Masatoshi Uehara
 Ryosaku Ueno
 Youta Tsutsumizaki
 Hiroshi Furukawa
-$C=====2485=====
-//
-//小林雅人　　　　栃堀木
-//堀越正弘　　　　山田昌孝
-//大谷時舟
-
-Masato Kobayashi     栃堀木
+$E=====2485===== 
+Masato Kobayashi
+Kiiro Tochibori
 Horikoshi Masahiro
 Masataka Yamada
 Tokifune Otani
@@ -8933,10 +8935,13 @@ $E=====2486=====
 //狩野賢一郎　　　豊田晶
 //藤原宏記
 //奥田雅史
-Akira Toyoda Shinya Ishikawa
-Kenjirou Kano Masafumi Okuta
+<WEIGHT>PROGRAMMING UNIT</WEIGHT>
+Akira Toyoda
+Kenjirou Kano
 Hiroki Fujiwara
 Yoshiteru Kobayashi
+Shinya Ishikawa
+Masafumi Okuta
 $E=====2487=====
 //<WEIGHT>デザインユニット</WEIGHT>
 //寺田ひとみ　　　横山賢治
@@ -8944,19 +8949,23 @@ $E=====2487=====
 //菅家彰
 //樋下田健一
 <WEIGHT>Design Unit</WEIGHT>
-Hitomi Terada Toru Kawakami
-Yokoyama Kenji  Akira Kanke
+Hitomi Terada
+Yokoyama Kenji
 Kenichi Higeta
 Chihoko Uchiyama
+Toru Kawakami
+Akira Kanke
 $E=====2488=====
 //<WEIGHT>サウンドユニット</WEIGHT>
 //野口洋江　　　　小堀修一
 //戸田色音　　　　本田晃弘
 //渡辺雅史
 <WEIGHT>Sound Unit</WEIGHT>
-Hiroe Noguchi Akihiro Honda
-Kobori Shuichi   Irone Toda
+Hiroe Noguchi
+Kobori Shuichi
 Masashi Watanabe
+Akihiro Honda
+Irone Toda
 $E=====2489=====
 //<WEIGHT>パブリシティデザイン</WEIGHT>
 //八代肇
@@ -8967,12 +8976,17 @@ Nobuyoshi Nishimura
 
 <WEIGHT>Publicity Design</WEIGHT>
 Hajime Yashiro
-$C=====2490===== //FIXIT
+$E=====2490=====
 //<WEIGHT>おてんこデザイン</WEIGHT>
+//飯尾史哉　　　　大塚隼人
+//佐藤光輝　　　　鈴木愁季
+//濱屋裕
 <WEIGHT>Otenko Design</WEIGHT>
-飯尾史哉　　　　大塚隼人
-佐藤光輝　　　　鈴木愁季
-濱屋裕
+Fumiya Iio
+Hayato Otsuka
+Mitsuteru Sato
+Shuuki Suzuki
+Hiroshi Hamaya
 $E=====2491=====
 //<WEIGHT>言語アドバイザー</WEIGHT>
 //寺田ひとみ
@@ -8987,11 +9001,15 @@ $E=====2492=====
 <WEIGHT>Production Support</WEIGHT>
 Takeshi Eguchi
 Takaaki Kitamura
-$C=====2493===== //FIXIT
+$E=====2493=====
 //<WEIGHT>プロモーション</WEIGHT>
+//倉野次郎　　　　千葉茂
+//横島恵美子　　　田中裕子
 <WEIGHT>Promotion</WEIGHT>
-倉野次郎　　　　千葉茂
-横島恵美子　　　田中裕子
+Jiro Kurano
+Shigeru Chiba
+Emiko Yokoshima
+Yuko Tanaka
 $E=====2494=====
 //<WEIGHT>制作協力</WEIGHT>
 <WEIGHT>Collaborating Studios</WEIGHT>
@@ -9000,13 +9018,15 @@ $E=====2495=====
 //<WEIGHT>任天堂株式会社</WEIGHT>
 
 <WEIGHT>Nintendo Corporation</WEIGHT>
-$C=====2496===== //FIXIT
+$E=====2496=====
 //<WEIGHT>コロコロコミック編集部</WEIGHT>
+//　佐上靖之
+//　村上孝雄
+//　石関暁
 <WEIGHT>CoroCoro Comic</WEIGHT>
-　佐上靖之
-　村上孝雄
-　石関暁
-
+Yasuyuki Sagami
+Takao Murakami
+Akira Isekise
 $E=====2497=====
 //<WEIGHT>株式会社カプコン</WEIGHT>
 //
@@ -9014,58 +9034,84 @@ $E=====2497=====
 <WEIGHT>Capcom Corporation</WEIGHT>
 
   Keiji Inafune
-$C=====2498===== //FIXIT
-　堀之内健
-　安間正博
-　江口正和
-　穴井俊英
-　佐藤和隆
-　坂野光徳
-$C=====2499===== //FIXIT
-　竹中司
-　松田幸悦
-　田原武文
-　尾崎浩平
-　緒良中隆浩
-$C=====2500===== //FIXIT
+$E=====2498=====
+//　堀之内健
+//　安間正博
+//　江口正和
+//　穴井俊英
+//　佐藤和隆
+//　坂野光徳
+Ken Horinouchi
+Masahiro Anma
+Masakazu Eguchi
+Toshihide Anai
+Kazutaka Sato
+Mitsunori Sakano
+$E=====2499=====
+//　竹中司
+//　松田幸悦
+//　田原武文
+//　尾崎浩平
+//　緒良中隆浩
+Tsukasa Takenaka
+Kouetsu Matsuda
+Takefumi Tahara
+Kohei Ozaki
+Takanao Ooraka
+$E=====2500=====
 //<WEIGHT>赤城乳業株式会社</WEIGHT>
+//　本田文彦
+//　萩原史雄
 <WEIGHT>AKAGI NYUGYO Corporation</WEIGHT>
-　本田文彦
-　萩原史雄
-$C=====2501===== //FIXIT
+Fumihiko Honda
+Fumio Hagiwara
+$E=====2501=====
 //<WEIGHT>有限会社 G</WEIGHT>
+//　楠原美夏
+//　高橋俊之
 <WEIGHT>G Produce Company</WEIGHT>
-　楠原美夏
-　高橋俊之
-$C=====2502===== //FIXIT
-吉池博明　　　　松井博信
-小林政哉　　　　田中修平
-土田裕之　　　　細谷宜史
-$C=====2503===== //FIXIT
-古城宏　　　　　田中智之
-山中智美　　　　宮本知子
-山内恵美子
+Mika Kusuhara
+Toshiyuki Takahashi
+$E=====2502=====
+//吉池博明　　　　松井博信
+//小林政哉　　　　田中修平
+//土田裕之　　　　細谷宜史
+Hiroaki Yoshiike
+Hironobu Matsui
+Masaya Kobayashi
+Shuhei Tanaka
+Hiroyuki Tsuchida
+Yoshifumi Hosoya
+$E=====2503=====
+//古城宏　　　　　田中智之
+//山中智美　　　　宮本知子
+//山内恵美子
+Hiroshi Kojo
+Tomoyuki Tanaka
+Tomomi Yamanaka
+Tomoko Miyamoto
+Emiko Yamauchi
 $E=====2504=====
 //<WEIGHT>ディレクター</WEIGHT>
 //中村如哉
-<WEIGHT>DIRECTOR</WEIGHT>
-Ikuya Nakamura
-<WEIGHT>PRODUCER</WEIGHT>
-Kensuke Yoshitomi
-Hideo Kojima
+<WEIGHT>Special Thanks</WEIGHT>
+Blues          Porojoa
+samiamwork     Ryken
+R93_Sniper     Seren
+ChickenHat     Max
 $E=====2505=====
 //<WEIGHT>プロデューサー</WEIGHT>
 //吉冨賢介
-<WEIGHT>Special Thanks</WEIGHT>
-Blues
+<WEIGHT>DIRECTOR</WEIGHT>
+Ikuya Nakamura
+
+<WEIGHT>PRODUCER</WEIGHT>
+Kensuke Yoshitomi
 $E=====2506=====
 //<WEIGHT>プロデューサー</WEIGHT>
 //小島秀夫
-<WEIGHT>Special Thanks</WEIGHT>
-Porojoa        MAX
-samiamwork     Ryken
-EmosewaMC      Seren
-R93_Sniper
+<WEIGHT>Producer</WEIGHT>
+Hideo Kojima
 $E=====2507=====
 //<WEIGHT>制作/著作</WEIGHT>
 //コナミ株式会社
@@ -14019,10 +14065,10 @@ $E=====3583=====
 //きりがないんだから・・・
 I swear, there's just no end
 to the killing...
-$E=====3584===== //FIXIT LINE BREAK
+$E=====3584=====
 //手配書を張(は)っておくから、
 //また、お願いね?」
-well, I've posted the Request
+I've posted the Request
 Sheets. Please take care of
 them again, won't you?"
 $E=====3585=====
@@ -41127,24 +41173,18 @@ and wait for the sun..."
 $E=====9339=====
 <PROC=0>
 <END>
-$E=====9340=====
-// Region data - this is bytecode: https://boktaihacking.net/wiki/Time#Region_selection
-{C1}{C2}{C1}{C1}{C1}{C1}{C2}{C2}{C2}{01} {FD}{09}{EC}{91}3{01}{09}
-W/{00}{C3}{C3}{C3}{01}{00}{FD}{09}3s%{01}{09}{EC}{91}4{00}{C4}{01}{00}{FD}{09}f{A6}({01}{09}Ha,{00}{C4}{C6}{C5}{01}{C0}{FC}{09}{B8}{DE} {01}{09}{1F}{85}.{00}{C6}{01}{C0}{FC}{09}{F6}{A8}{1E}{01}{09}{x}O-{00}{C7}{01}{C0}{FC}{09}{7B}{94}{1C}{01}{09}{1F}E-{00}{C8}{01}{C0}{FC}{09}{CD}{CC}{18}{01}{09}{D7}c+{00}{C9}{01}{C0}{FC}{09}{00}{C0}{16}{01}{09}{AE}G0{00}{C5}{C4}{CA}{01}{C0}{FC}{09}{C3}{F5} {01}{09}R8*{00}{CB}{01}{C0}{FC}{09}{CD}{8C}{1E}{01}{09}{D7}c*{00}{CC}{01}{C0}{FC}{09}{F6}{E8}{1B}{01}{09}{AE}{07}+{00}{C6}{C4}{CD}{01}{C0}{FC}{09}{00}{00}{1E}{01}{09}3s({00}{CE}{01}{C0}{FC}{09}f{E6}{1C}{01}{09}{EC}{91}'{00}{CF}{01}{C0}{FC}{09}p{FD}{17}{01}{09}{8F}B({00}{C7}{C5}{D0}{01}{C0}{FC}{09}{E1}{FA}{1A}{01}{09}={8A}&{00}{D1}{01}{C0}{FC}{09}{7B}{D4}{1B}{01}{09}{8F}{82}÷{00}{D2}{01}{C0}{FC}{09}){9C}{19}{01}{09}Rx#{00}{D3}{01}{C0}{FC}{09}q{7D}{17}{01}{09}H!#{00}{C8}{C5}{D4}{01}{C0}{FC}{09}{1F}{C5}{13}{01}{09}3s!{00}{D5}{01}{C0}{FC}{09}{7B}{94}{16}{01}{09}33{1E}{00}{D6}{01}{C0}{FC}{09}{E1}{BA}{15}{01}{09}{EC}{91}{1B}{00}{D7}{01}{C0}{FC}{09}{D7}{E3}{17}{01}{09}Rx{19}{00}{C9}{C5}{D8}{01}{C0}{FC}{09}R{F8}{14}{01}{09}33*{00}{D9}{01}{C0}{FC}{09}{7B}{94}{16}{01}{09}{CD}L){00}{DA}{01}{C0}{FC}{09}{00}{00}{15}{01}{09}{7B}{94}'{00}{DB}{01}{C0}{FC}{09}3{B3}{13}{01}{09}{AE}{07}&{00}{CA}{C5}{DC}{01}{80}{FC}{09}{9A}{D9}{0E}{01}{09}330{00}{DD}{01}{80}{FC}{09}{F6}{E8}{06}{01}{09}={8A}1{00}{DE}{01}{80}{FC}{09}f{A6}{FF}{00}{09}{1F}E2{00}{DF}{01}{80}{FC}{09}{E1}z{06}{01}{09}3s7{00}{CB}{C6}{E0}{01}{80}{FC}{09}{F6}{E8}{11}{01}{09}{C3}u'{00}{E1}{01}{80}{FC}{09}{B8}{9E}{10}{01}{09}{AE}{87}){00}{E2}{01}{80}{FC}{09}3s{10}{01}{09}{1F}{05}+{00}{E3}{01}{80}{FC}{09}
-{D7}
-{01}{09}
-{97},{00}{E4}{01}{80}{FC}{09}{AE}{87}{03}{01}{09}{E1}z.{00}{CC}{C6}{E5}{01}{80}{FC}{09}H{E1}{0D}{01}{09}{B8}^&{00}{E6}{01}{80}{FC}{09}{AE}{87}{11}{01}{09}{9A}{19}÷{00}{E7}{01}{80}{FC}{09}R{F8}{0D}{01}{09}{7B}{14}#{00}{E8}{01}{80}{FC}{09}{x}{CF}{11}{01}{09}{E1}: {00}{E9}{01}{80}{FC}{09}H{E1}{0D}{01}{09}{15}. {00}{CD}{C6}{EA}{01}{80}{FC}{09}{C3}{F5}{0D}{01}{09}{7B}{94}{1D}{00}{EB}{01}{80}{FC}{09}H{A1}
-{01}{09}){x}){00}{EC}{01}{80}{FC}{09}
-{97}{07}{01}{09}q{7D}({00}{ED}{01}{80}{FC}{09}{B8}{9E}{09}{01}{09}{EC}{11}'{00}{EE}{01}{80}{FC}{09}{9A}{99}{08}{01}{09}{AE}{07}'{00}{CE}{C6}{EF}{01}{80}{FC}{09}{7B}{D4}
-{01}{09}H!%{00}{F0}{01}{80}{FC}{09}{7B}{D4}{0B}{01}{09}3s"{00}{F1}{01}{80}{FC}{09}3{B3}{06}{01}{09}{CD}L#{00}{F2}{01}{80}{FC}{09}{8F}{82}{07}{01}{09}Rx {00}{F3}{01}{80}{FC}{09}{AE}{C7}{08}{01}{09}{C3}u{1D}{00}{CF}{C4}{F4}{01}@{FC}{09}3{B3}{F6}{00}{09}{CD}L5{00}{F5}{01}@{FC}{09}f{E6}{F5}{00}{09}{00}{00}3{00}{F6}{01}@{FC}{09}{C3}{B5}{F5}{00}{09}{1F}E>{00}{D0}{C6}{F7}{01}@{FC}{09}{F6}h{FF}{00}{09}{A4}p'{00}{F8}{01}@{FC}{09}){9C}{FD}{00}{09}{CD}{0C}#{00}{F9}{01}@{FC}{09}{C3}{F5}{F7}{00}{09}{1F}E!{00}{FA}{01}@{FC}{09}{B8}{DE}{F3}{00}{09}{B8}^+{00}{FB}{01}@{FC}{09}Rx{F8}{00}{09}3s({00}{D1}{C3}{FC}{01}{00}{FC}{09}f{E6}{EC}{00}{09}f&1{00}{FD}{01}{00}{FC}{09}R{F8}{E0}{00}{09}{15}n<{00}{D2}{C6}{FE}{01}{00}{FC}{09}{8F}{C2}{F2}{00}{09}ff/{00}{FF}{01}{00}{FC}{09}{CD}{CC}{ED}{00}{09}){x}/{00}{02}?{01}{00}{FC}{09}{E1}{FA}{EC}{00}{09}{x}{8F},{00}{02}@{01}{00}{FC}{09}{1F}{85}{F0}{00}{09}{x}O'{00}{02}A{01}{00}{FC}{09}{F6}{E8}{F4}{00}{09}{9A}{19}÷{00}{D3}{C4}{02}B{01}{00}{FC}{09}{9A}{D9}{F1}{00}{09}{AE}{07}"{00}{02}C{01}{00}{FC}{09}{F6}{E8}{F2}{00}{09}{15}n {00}{02}D{01}{00}{FC}{09}{00}{C0}{ED}{00}{09}Rx%{00}{D4}{C4}{02}E{01}{C0}{FB}{09}{C3}u{D2}{00}{09}H!={00}{02}F{01}{C0}{FB}{09}{EC}{91}{D4}{00}{09}{8F}{82}@{00}{02}G{01}{C0}{FB}{09}){9C}{E4}{00}{09}{C3}57{00}{D5}{C2}{02}H{01}{80}{FB}{09}{E1}z{CA}{00}{09}{A4}0{15}{00}{D6}{C4}{02}I{01}{C0}{FD}{09}{14}nR{01}{09}{9A}{19}@{00}{02}J{01}{C0}{FD}{09}{CD}{CC}a{01}{09}q=6{00}{02}K{01}{C0}{FD}{09}{C3}{B5}_{01}{09}={8A}3{00}{D7}{C6}{02}L{01}{C0}{FD}{09}3{B3}g{01}{09}{CD}L3{00}{02}M{01}{C0}{FD}{09}f{E6}d{01}{09}=J3{00}{02}N{01}{C0}{FD}{09}{B8}{DE}d{01}{09}{EC}{91}7{00}{02}O{01}{C0}{FD}{09}{A4}pb{01}{09}{B8}^6{00}{02}P{01}{C0}{FD}{09}{00}{00}e{01}{09}{00}@5{00}{D8}{C4}{02}Q{01}{C0}{FD}{09}f{E6}^{01}{09}{85}k&{00}{02}R{01}{C0}{FD}{09}{9A}{99}_{01}{09}{CD}{CC}){00}{02}S{01}{00}{FE}{09}{x}O{0E}{00}{09}={8A}#{00}{D9}{C6}{02}T{01}{00}{FE}{09}{CD}{8C}d{01}{09}{00}@({00}{02}U{01}{00}{FE}{09}{9A}{19}{02}{00}{09}{C3}5){00}{02}V{01}{00}{FE}{09}{9A}{99}g{01}{09}33'{00}{02}W{01}{00}{FE}{09}{00}{C0}_{01}{09}33+{00}{02}X{01}{00}{FE}{09}{85}kb{01}{09}{E1}:%{00}{DA}{C6}{02}Y{01}{00}{FE}{09}33{02}{00}{09}{00}{80}0{00}{02}Z{01}{00}{FE}{09}{A4}{B0}c{01}{09}q=0{00}{02}[{01}{00}{FE}{09}{00}{80}{04}{00}{09}{C3}u-{00}{02}{x}{01}{00}{FE}{09}{D7}{A3}g{01}{09}{00}{80},{00}{02}]{01}{00}{FE}{09}{E1}:{05}{00}{09}{14}.+{00}{DB}{C6}{02}^{01}{00}{FE}{09}{C3}5{04}{00}{09}{8F}{82}2{00}{02}_{01}{00}{FE}{09}{14}n{05}{00}{09}{9A}{19}2{00}{02}`{01}{00}{FE}{09}={8A}{04}{00}{09}{E1}:4{00}{02}a{01}{00}{FE}{09}{CD}L{04}{00}{09}{CD}{8C}3{00}{02}b{01}{00}{FE}{09}f{E6}{06}{00}{09}{B8}^1{00}{DC}{C6}{02}c{01}{00}{FE}{09}{00}@{0D}{00}{09}{CD}L4{00}{02}d{01}{00}{FE}{09}
-{97}{09}{00}{09}{7B}T5{00}{02}e{01}{00}{FE}{09}33{07}{00}{09}{AE}G3{00}{02}f{01}{00}{FE}{09}{F6}h{08}{00}{09}3{B3}2{00}{02}g{01}{00}{FE}{09}
-W{0B}{00}{09}{CD}{CC}0{00}{DD}{C6}{02}h{01}{00}{FE}{09}{AE}G{07}{00}{09}{EC}{91}.{00}{02}i{01}{00}{FE}{09}f{E6}{06}{00}{09}{B8}{1E}.{00}{02}j{01}{00}{FE}{09}{x}O{09}{00}{09}{CD}{CC}/{00}{02}k{01}{00}{FE}{09}R8{10}{00}{09}{B8}{1E}0{00}{02}l{01}{00}{FE}{09}{E1}:{0B}{00}{09}{F6}(/{00}{DE}{C6}{02}m{01}{00}{FE}{09}=J{0C}{00}{09}={8A}){00}{02}n{01}{00}{FE}{09}{EC}{91}{08}{00}{09}{00}@,{00}{02}o{01}{00}{FE}{09}{C3}5{0C}{00}{09}{1F}E-{00}{02}p{01}{00}{FE}{09}R8{0D}{00}{09}3{B3}&{00}{02}q{01}{00}{FE}{09}
-W{08}{00}{09}{14}n({00}{DF}{C6}{02}r{01}{00}{FE}{09}3s
-{00}{09}{CD}{8C};{00}{02}s{01}{00}{FE}{09}33{05}{00}{09}33<{00}{02}t{01}{00}{FE}{09}{00}@
-{00}{09}){x}?{00}{02}u{01}{00}{FE}{09}
-W{0C}{00}{09}{F6}h7{00}{02}v{01}{00}{FE}{09}{E1}:
-{00}{09}R87{00}{E0}{C6}{02}w{01}{00}{FE}{09}{CD}L{12}{00}{09}33;{00}{02}x{01}{00}{FE}{09}
-{97}{0B}{00}{09}{14}n9{00}{02}y{01}@{FE}{09}{CD}L{19}{00}{09}f&<{00}{02}z{01}@{FE}{09}{A4}0{16}{00}{09}{CD}L<{00}{02}{7B}{01}@{FE}{09}f&{1B}{00}{09}{14}n={00}{E1}{C6}{02}|{01}{00}{FE}{09}{00}{00}{15}{00}{09}H!4{00}{02}{7D}{01}{00}{FE}{09}ff{12}{00}{09}R86{00}{02}￣{01}{00}{FE}{09}{CD}{8C}{10}{00}{09}{00}@4{00}{02}{7F}{01}{00}{FE}{09}{00}{80}{11}{00}{09}{00}{80}3{00}{02}{80}{01}{00}{FE}{09}{EC}{91}{13}{00}{09}ff2{00}{E2}{C4}{02}{81}{01}{00}{FE}{09}R8{0E}{00}{09}{00}{80}2{00}{02}{82}{01}{00}{FE}{09}3{B3}{11}{00}{09}{9A}{19}0{00}{02}{83}{01}{00}{FE}{09}f&{15}{00}{09}{85}k0{00}{E3}{C3}{02}{84}{01}{00}{FE}{09}{00}{80}{13}{00}{09}=J/{00}{02}{85}{01}@{FE}{09}{9A}{19}{1A}{00}{09}{1F}E,{00}{E4}{C6}{02}{86}{01}{00}{FE}{09}{7B}T{0E}{00}{09}ff.{00}{02}{87}{01}{00}{FE}{09}{7B}{94}{0F}{00}{09}{00}{80}-{00}{02}{88}{01}{00}{FE}{09}{8F}B{12}{00}{09}{1F}{85}+{00}{02}{89}{01}{00}{FE}{09}{B8}^{14}{00}{09}{00}{80},{00}{02}{8A}{01}{00}{FE}{09}{8F}B{15}{00}{09}{9A}{19}*{00}{E5}{C6}{02}{8B}{01}@{FE}{09}q{7D}{13}{00}{09}{14}.){00}{02}{8C}{01}@{FE}{09}33{17}{00}{09}3s*{00}{02}{8D}{01}@{FE}{09}{C3}u{17}{00}{09}{7B}{94}%{00}{02}{8E}{01}@{FE}{09}{7B}{94}{16}{00}{09}Ha({00}{02}{8F}{01}@{FE}{09}{9A}{19}{19}{00}{09}{9A}{19}#{00}{E6}{C6}{02}{90}{01}@{FE}{09}={8A} {00}{09}{EC}{91}'{00}{02}{91}{01}@{FE}{09}{00}{00}{1D}{00}{09}{00}{00}){00}{02}{92}{01}@{FE}{09}{CD}{CC}{1B}{00}{09}{00}@&{00}{02}{93}{01}@{FE}{09}{9A}Y {00}{09}{1F}{85}%{00}{02}{94}{01}@{FE}{09}{F6}(#{00}{09}{00}{00}%{00}{E7}{C2}{02}{95}{01}@{FE}{09}{9A}{19}#{00}{09}Rx{1F}{00}{E8}{C4}{02}{96}{01}@{FE}{09}{B8}{1E}{1C}{00}{09}{x}{8F}N{01}{02}{97}{01}@{FE}{09}R8{12}{00}{09}3sF{01}{02}{98}{01}@{FE}{09}{9A}{19}{1F}{00}{09}{8F}{82}J{01}{E9}{C4}{02}{99}{02}{C0}{09}{C3}u{AE}{00}{09}{x}{CF}>{01}{02}{9A}{02}{C0}{09}{C3}u{AE}{00}{09}{E1}zC{01}{02}{9B}{02}{C0}{09}{7B}T{AA}{00}{09}{00}{80}:{01}{EA}{C6}{02}{9C}{02}@{09}{9A}{19}{97}{00}{09}RxF{01}{02}{9D}{02}@{09}{00}{00}{91}{00}{09}{00}{80}B{01}{02}{9E}{E1}{09}{CD}L{8A}{00}{09}{E1}zE{01}{02}{9F}{01}{C0}{FF}{09}{1F}{85}s{00}{09}{14}nH{01}{02}{A0}{02}@{09}33{99}{00}{09}{00}{C0}L{01}{C0}{C1}{C1}{C1}{C1}{C1}{00}
+$X=====9340=====
+{C1}{C2}{C1}{C1}{C1}{C2}{C6}{C2}{09}=J{8C}{00}{09}R8÷{00}{C3}{09}{AE}{87}{8B}{00}{09}
+W÷{00}{C4}{09}=
+{8B}{00}{09}{E1}:÷{00}{C5}{09}{D7}c{8B}{00}{09}{8F}欅{00}{C6}{09}{EC}{11}{8C}{00}{09}){x}#{00}{C3}{C4}{C7}{09}{A4}p{8B}{00}{09}{D7}c#{00}{C8}{09}{D7}c{8B}{00}{09}{1F}E#{00}{C9}{09}){1C}{8E}{00}{09}{CD}{0C}{1B}{00}{C4}{C6}{CA}{09}{1F}{05}{8B}{00}{09}{CD}{8C}%{00}{CB}{09}H!{89}{00}{09}{F6}h÷{00}{CC}{09}{D7}c{88}{00}{09}
+W÷{00}{CD}{09}H!{88}{00}{09}=
+÷{00}{CE}{09}
+W{8A}{00}{09}ff#{00}{C5}{C5}{CF}{09}){1C}{8A}{00}{09}{D7}c÷{00}{D0}{09}{C3}u{88}{00}{09}{00}@#{00}{D1}{09}{E1}:{8A}{00}{09}{7B}{94}"{00}{D2}{09}{CD}{8C}{88}{00}{09}{9A}{19}#{00}{C6}{C6}{D3}{09}{x}O{88}{00}{09}{A4}p"{00}{D4}{09}{1F}警{00}{09}{00}{00}#{00}{D5}{09}3s{87}{00}{09}{8F}{02}#{00}{D6}{09}=J{87}{00}{09}{F6}h"{00}{D7}{09}){1C}{87}{00}{09}{D7}#"{00}{C7}{C3}{D8}{09}{00}リ{00}{09}{F6}h"{00}{D9}{09}{9A}{19}{87}{00}{09}{D7}#"{00}{C8}{C6}{DA}{09}{D7}#{86}{00}{09}{CD}L#{00}{DB}{09}{AE}{07}{PG04}{09}{AE}G#{00}{DC}{09}{x}{8F}{PG04}{09}ff"{00}{DD}{09}{1F}E{PG03}{09}{E1}:"{00}{DE}{09}{AE}G{PG02}{09}){1C}"{00}{C9}{C5}{DF}{09}{7B}T{86}{00}{09}=
+"{00}{E0}{09}=
+{86}{00}{09}{C3}5"{00}{E1}{09}{C3}u{PG03}{09}{00}ま{00}{E2}{09}{EC}Q{PG04}{09}{7B}T!{00}{CA}{C6}{E3}{09}q={PG01}{09}{9A}Y!{00}{E4}{09}{15}.{PG01}{09}f&!{00}{E5}{09}{1F}響{00}{09}3s {00}{E6}{09}{15}n{PG01}{09}{E1}z {00}{E7}{09}{B8}^{PG02}{09}{D7}#!{00}{CB}{C5}{E8}{09}{00}@{PG02}{09}={8A}{1F}{00}{E9}{09}{7B}T{PG01}{09}){x}{1F}{00}{EA}{09}ff{7F}{00}{09}H!{1A}{00}{EB}{09}{9A}{19}|{00}{09}33{18}{00}{CC}{C6}{EC}{09}{C3}5{8D}{00}{09}=
++{00}{ED}{09}3s{8C}{00}{09}q{7D}){00}{EE}{09}R8{8E}{00}{09}{C3}u+{00}{EF}{09}q={90}{00}{09}
+{97}*{00}{F0}{09}H!{8F}{00}{09}{CD}{8C}*{00}{CD}{C4}{F1}{09}{A4}p{8C}{00}{09}q{7D}({00}{F2}{09}
+{17}{8D}{00}{09}劣'{00}{F3}{09}{1F}{858C}{00}{09}{F6}(&{00}{CE}{C4}{F4}{09}{EC}{11}{8C}{00}{09}{15}n'{00}{F5}{09}{C3}5{8C}{00}{09}f&&{00}{F6}{09}{AE}G{8C}{00}{09}3s%{00}{C0}{C1}{C1}{C1}{00}
 $E=====9341=====
 <NAME>
 $E=====9342=====
@@ -42009,246 +42049,127 @@ $E=====9686=====
 <NAME>
 $E=====9687=====
 //イバラキ
-    Newfoundland    {00}St. John's
+IBARAKI
 $E=====9688=====
 //トチギ
-   ATLANTIC TIME    {00}Labrador City
-Halifax
+TOCHIGI
 $E=====9689=====
 //グンマ
-   EASTERN TIME 1   {00}Quebec
-Montreal
-Ottawa
-Toronto
-Timmins
+GUNMA
 $E=====9690=====
 //サイタマ
-   EASTERN TIME 2   {00}Boston
-Albany
-Syracuse
+SAITAMA
 $E=====9691=====
 //チバ
-   EASTERN TIME 3   {00}New York
-Philadelphia
-Pittsburgh
+CHIBA
 $E=====9692=====
 //トウキョウ
-   EASTERN TIME 4   {00}Washington D.C.
-Norfolk
-Raleigh
-Charlotte
+TOKYO
 $E=====9693=====
 //カナガワ
-   EASTERN TIME 5   {00}Atlanta
-Jacksonville
-Tampa
-Miami
+KANAGAWA
 $E=====9694=====
 //オガサワラ
-   EASTERN TIME 6   {00}Detroit
-Cleveland
-Columbus
-Lexington
+OGASAWARA
 $E=====9695=====
 //ニイガタ
-   CENTRAL TIME 1   {00}Thunder Bay
-Winnipeg
-Regina
-Thompson
+NIIGATA
 $E=====9696=====
 //トヤマ
-   CENTRAL TIME 2   {00}Indianapolis
-Chicago
-Milwaukee
-Minneapolis
-Bismark
+TOYAMA
 $E=====9697=====
 //イシカワ
-   CENTRAL TIME 3   {00}St. Louis
-Nashville
-Memphis
-Montgomery
-Jackson
+ISHIKAWA
 $E=====9698=====
 //フクイ
-   CENTRAL TIME 4   {00}New Orleans
-Des Moines
-Lincoln
-Kansas City
-Topeka
+FUKUI
 $E=====9699=====
 //ヤマナシ
-   CENTRAL TIME 5   {00}Springfield
-Little Rock
-Oklahoma City
-Dallas
-Houston
+YAMANASHI
 $E=====9700=====
 //ナガノ
-  MOUNTAIN TIME 1   {00}Edmonton
-Calgary
-Yellowknife
+NAGANO
 $E=====9701=====
 //ギフ
-  MOUNTAIN TIME 2   {00}Denver
-Albaquerque
-Phoenix
-Boise
-Salt Lake City
+GIFU
 $E=====9702=====
 //シズオカ
-   PACIFIC TIME 1   {00}Vancouver
-Whitehorse
+SHIZUOKA
 $E=====9703=====
 //アイチ
-   PACIFIC TIME 2   {00}Spokane
-Seattle
-Salem
-Reno
-Las Vegas
+AICHI
 $E=====9704=====
 //ミエ
-   PACIFIC TIME 3   {00}Los Angeles
-San Diego
-San Francisco
+MIE
 $E=====9705=====
 //シガ
-    ALASKAN TIME    {00}Anchorage
-Fairbanks
-Ketchikan
+SHIGA
 $E=====9706=====
 //キョウト
-  Hawaiian Islands  {00}Honolulu
+KYOTO
 $E=====9707=====
 //オオサカ
-  ICELAND/IRELAND   {00}Reykjavik
-Dublin
-Cork
+OSAKA
 $E=====9708=====
 //ヒョウゴ
-   UNITED KINGDOM   {00}London
-Cardiff
-Edinburgh
-Belfast
-Liverpool
+HYOUGO
 $E=====9709=====
 //ナラ
-   PORTUGAL/MALTA   {00}Lisbon
-Porto
-Valetta
+NARA
 $E=====9710=====
 //ワカヤマ
-       SPAIN        {00}Madrid
-Barcelona
-Valencia
-La Coruna
-Seville
+WAKAYAMA
 $E=====9711=====
 //トットリ
-       FRANCE       {00}Paris
-Brest
-Lyons
-Bordeaux
-Marseilles
+TOTTORI
 $E=====9712=====
 //シマネ
-      BENELUX       {00}Brussels
-Bastogne
-Amsterdam
-Rotterdam
-Luxembourg
+SHIMANE
 $E=====9713=====
 //オカヤマ
-      GERMANY       {00}Berlin
-Hamburg
-Essen
-Frankfurt
-Munich
+OKAYAMA
 $E=====9714=====
 //ヒロシマ
- SWISS/LICH./AUSTRIA{00}Bern
-Geneve
-Vaduz
-Wien
-Innsbruck
+HIROSHIMA
 $E=====9715=====
 //ヤマグチ
-       ITALY        {00}Rome
-Genova
-Venezia
-Palermo
-Sassari
+YAMAGUCHI
 $E=====9716=====
 //トクシマ
-   NORWAY/DENMARK   {00}Oslo
-Bergen
-Trondheim
-Copenhagen
-Odense
+TOKUSHIMA
 $E=====9717=====
 //カガワ
-   SWEDEN/FINLAND   {00}Stockholm
-Gothenburg
-Helsinki
-Turku
-Mikkeli
+KAGAWA
 $E=====9718=====
 //エヒメ
-       POLAND       {00}Warszawa
-Gdansk
-Poznan
-Wroclaw
-Krakow
+EHIME
 $E=====9719=====
 //コウチ
-    CZECH/SLOVAK    {00}Praha
-Bratislava
-Kosice
+KOUCHI
 $E=====9720=====
 //フクオカ
-  HUNGARY/ROMANIA   {00}Budapest
-Bucuresti
+FUKUOKA
 $E=====9721=====
 //サガ
-      BALKAN 1      {00}Ljubljana
-Zagreb
-Sarajevo
-Beograd
-Skopje
+SAGA
 $E=====9722=====
 //ナガサキ
-      BALKAN 2      {00}Tirane
-Sofiya
-Athinai
-Thessaloniki
-Iraklion
+NAGASAKI
 $E=====9723=====
 //クマモト
-       TURKEY       {00}Ankara
-Istanbul
-Izmir
-Konya
-Adana
+KUMAMOTO
 $E=====9724=====
 //オオイタ
-       ISRAEL       {00}Jerusalem
+OOITA
 $E=====9725=====
 //ミヤザキ
-    SOUTH AFRICA    {00}Pretoria
-Cape Town
-Durban
+MIYAZAKI
 $E=====9726=====
 //カゴシマ
-    NEW ZEALAND     {00}Wellington
-Auckland
-Dunedin
+KAGOSHIMA
 $E=====9727=====
 //オキナワ
-     AUSTRALIA      {00}Sydney
-Melbourne
-Adelaide
-Perth
-Brisbane
+OKINAWA
 $E=====9728=====
 //イシガキジマ
 ISHIGAKIJIMA
@@ -42550,16 +42471,20 @@ main story mode.
 $E=====9791=====
 <PROC=0>
 <END>
-$H=====9792=====
-　ドバビブベボがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ　!"　　　&'()　　,-./0123456789ヴパピプペポ
-$H=====9793=====
-@ABCDEFGHIJKLMNOPQRSTUVWXYZ　　　　　`abcdefghijklmnopqrstuvwxyzをぁぃぅぇぉゃゅょっ～あいうえおかきくけこ
-$H=====9794=====
-さしすせそたちつてとなにぬねのはひ。「」、・ヲァィゥェォャュョッーアイウエオカキクケコサシスセソ
-$H=====9795=====
-タチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワン　　ふへほまみむめもやゆよらりるれろ
-$H=====9796=====
-わんガギグゲゴザジズゼゾダヂヅデ
+$H=====9792=====//Crossover Battle Name Conversion
+//　ドバビブベボがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ　!"　　　&'()　　,-./0123456789ヴパピプペポ
+　sバビブベボがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ　!"　　　&'()　　X,-./0123456789ヴパピプペポ
+$H=====9793=====//Crossover Battle Name Conversion
+@ABCDEFGHIJKLMNOPQRSTUVWXY:　　　　　`abcdefghijklmnopqrstuvwxyzをぁぃぅぇぉゃゅょっ+あ?う%おかきく&;
+$H=====9794=====//Crossover Battle Name Conversion
+//さしすせそたちつてとなにぬねのはひ。「」、・ヲァィゥェォャュョッーアイウエオカキクケコサシスセソ
+'しすせ())/～な×_ねのはひ。「」、・uァィゥェォャュョッーBCAEDHJIFGLNOKM
+$H=====9795=====Crossover Battle Name Converison
+//タチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワン　　ふへほまみむめもやゆよらりるれろ
+STRPQXYWUVbZc*aedgfhikjpnmoltン　　ふへほまみむめもやゆよらりるれろ
+$H=====9796=====Crossover Battle Name Conversion
+//わんガギグゲゴザジズゼゾダヂヅデ
+わんwvzxyザジズゼゾダヂヅr
 $E=====9797=====
 //通信エラーが発生しました。
 //電源を切ってワイヤレスアダプ
@@ -42614,7 +42539,7 @@ Crossover Points Earned
 $E=====9809=====
 //クロスオーバーポイントの合計
 Crossover Point Total
-$C=====9810=====
+$C=====9810===== //FIXIT?
 //きょうもクロスオーバー
 Crossover today too
 $E=====9811=====
@@ -42949,7 +42874,7 @@ $X=====9922=====
 {C1}{C1}{C1}{C1}{C7}{C7}{C6}{C6}{C6}{C6}{C3}{C6}{C6}{C7}{C1}{C4}{C5}{C1}{C7}{C5}{C3}{C3}{C3}{C3}{C3}{C3}{C6}{C6}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C7}{C7}{C7}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C4}{C4}{C5}{C5}{C6}{C6}{C7}{C7}{C9}{C9}{C3}{C7}{C1}{C1}{C3}{C4}{C5}{C4}{C5}{C6}{C7}{C3}{C3}{C3}{C6}{C3}{C5}{C4}{C1}{00}
 $X=====9923=====
 {FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{01}{00}{0F}{02}{11}{FF}{FF}{00}{01}{FF}{FF}{00}{0F}{FF}{FF}{00}{01}{00}{13}{00}{01}{00}{13}{00}{01}{00}{13}{00}{01}{00}{13}{02}{12}{00}{04}{02}({00}{04}{02}){00}{03}{02}{03}{00}{03}{02}{1F}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{01}{02}{1C}{00}{01}{02}{13}{FF}{FF}{FF}{FF}{00}{16}{02}'{00}{16}{02} {FF}{FF}{FF}{FF}{00}{08}{00}{06}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{14}{02}{0C}{00}{13}{02}{04}{00}{16}{02}*{00}{01}{02}{05}{00}{0D}{02}"{00}{0D}{02}{17}{FF}{FF}{FF}{FF}{00}{14}{02}{0D}{00}{14}{02}{14}{FF}{FF}{FF}{FF}{00}{19}{00}{19}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{0D}{FF}{FF}{00}{0D}{FF}{FF}{00}{0D}{00}{0E}{02}{02}{00}{0E}{02}{0F}{00}{0E}{02}{1D}{00}{0E}{02}{1E}{00}{0D}{02}{01}{00}{0D}{02}{07}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}
-$E=====9924===== //FIXIT WORD WRAP
+$E=====9924=====
 //通常:
 Normal:
 $E=====9925=====
@@ -43073,7 +42998,7 @@ $X=====9966=====
 $X=====9967=====
 {02}{B4}{C1}{C9}{F1}{C5}{02}@{E1}{C0}{C1}{C1}{C1}{C1}{C1}{C1}{00}
 $X=====9968=====
-{02}Z{C3}{C5}{DF}{C9}{02}Z{F1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{CB}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{CB}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}Z{C3}{C5}{DF}{C9}{02}Z{F1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}Z{C3}{C5}{DF}{C9}{02}Z{F1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CB}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}{9A}{C3}{C5}{DF}{C9}{02}い@{C0}{C1}{C1}{C1}{C1}{C1}{C1}{00}
+{02}Z{C3}{C5}{DF}{CD}{02}Z{F1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}Z{C3}{C5}{DF}{CD}{02}Z{F1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}Z{C3}{C5}{DF}{CD}{02}Z{F1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}{9A}{C3}{C5}{DF}{CD}{02}い@{C0}{C1}{C1}{C1}{C1}{C1}{C1}{00}
 $X=====9969=====
 {02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{C0}{C0}{C0}{00}
 $X=====9970=====

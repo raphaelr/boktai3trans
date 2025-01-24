@@ -3290,13 +3290,13 @@ $E=====1165=====
 A helmet with the power of Colonel. Defends against Poison, Confuse, and Paralysis from enemy attacks.
 $E=====1166=====
 //革(かわ)の鎧(よろい)。カラダが上がる(小)。
-Leather armor. Slightly raises VIT.
+Leather armor. Slightly raises Vitality.
 $E=====1167=====
 //金属(きんぞく)の輪をつなぎ合わせた鎧(よろい)。カラダが上がる(中)。
-Armor made of linked metal rings. Raises VIT.
+Armor made of linked metal rings. Raises Vitality.
 $E=====1168=====
 //板金(いたがね)の鎧(よろい)。カラダが上がる(大)。
-Armor made of metal plates. Greatly raises VIT.
+Armor made of metal plates. Greatly raises Vitality.
 $E=====1169=====
 //火竜の牙(きば)から作られた鎧(よろい)。フレイムに強くなり、フロストに弱くなる。
 Armor made from a Fire Dragon Fang. Strengthens Flame, weakens Frost.
@@ -3314,7 +3314,7 @@ $E=====1173=====
 Rain cloak. Protects from the rain.
 $E=====1174=====
 //魔法の鎧(よろい)。ココロが高いほど受けるダメージがへり、チカラが下がる。
-Magical armor. Damage taken decreases as SPR increases. Decreases STR.
+Magical armor. Damage taken decreases as Spirit increases. Decreases Strength.
 $E=====1175=====
 //装備(そうび)した者を守る鎧(よろい)。攻撃(こうげき)を受けると自動的に反撃(はんげき)する。
 Armor that protects the user through automatic counter attacks.
@@ -3338,10 +3338,10 @@ $E=====1181=====
 A mantle with the power of Bass. Halves damage taken.
 $E=====1182=====
 //重りの入った腕輪(うでわ)。チカラが上がる(中)。ソードの受けるダメージが2倍になる。
-A heavy bracelet. Raises STR. Doubles damage taken when using a sword.
+A heavy bracelet. Raises Strength. Doubles damage taken when using a sword.
 $E=====1183=====
 //呪文(じゅもん)のきざまれた腕輪(うでわ)。チカラが上がる(大)。エナジーの消費量が2倍になる。
-A bracelet engraved with a charm. Greatly raises STR. Doubles energy consumption.
+A bracelet engraved with a charm. Greatly raises Strength. Doubles energy consumption.
 $E=====1184=====
 //クラブの紋章(もんしょう)。縦斬(たてぎ)りであたえるダメージがふえる。
 The crest of clubs. Increases damage dealt by vertical cuts.
@@ -3353,7 +3353,7 @@ $E=====1186=====
 A tiny shield. Halves damage taken when using a sword.
 $E=====1187=====
 //魔法の手甲(てっこう)。ココロが高いほどソードであたえるダメージがふえ、チカラが下がる。
-Magical gauntlet. Damage dealt increases as SPR increases. Decreases STR.
+Magical gauntlet. Damage dealt increases as Spirit increases. Decreases Strength.
 $E=====1188=====
 //白騎士(しろきし)の手甲(てっこう)。昼間あたえるダメージがふえ、夜間あたえるダメージがへる。
 A white knight's gauntlet. Increases damage dealt during the day, decreases damage dealt at night.
@@ -3374,10 +3374,10 @@ $E=====1193=====
 Iron clogs. Wind has no effect. Decreases movement speed.
 $E=====1194=====
 //オモチャの靴(くつ)。カラダとチカラが上がる(小)。移動(いどう)時におかしな音がする。
-Toy shoes. Slightly raises VIT and STR. Movement makes a strange sound.
+Toy shoes. Slightly raises Vitality and Strength. Movement makes a strange sound.
 $E=====1195=====
 //重りの入った脚輪(あしわ)。カラダとチカラが上がる(中)。アイテムがくさりやすくなる。
-A heavy ankle band. Raises VIT and STR. Items spoil faster.
+A heavy ankle band. Raises Vitality and Strength. Items spoil faster.
 $E=====1196=====
 //じょうぶな靴(くつ)。精霊虫(せいれいちゅう)の効果(こうか)が2倍になる。
 Durable shoes. Doubles effectiveness of Spirit Bugs.
@@ -6314,7 +6314,7 @@ $E=====1849=====
 <PROC=0>
 <END>
 $E=====1850=====
-/船にそなえ付けられた大砲(た
+//船にそなえ付けられた大砲(た
 //いほう)は、
 The cannons on Nidhoggr's
 back...
@@ -8592,7 +8592,7 @@ $E=====2417=====
 $E=====2418=====
 // 太陽センサーと?
  SOLAR SENSOR & ? ? ?
-$C=====2419=====
+$E=====2419=====
 //「新・ボクらの太陽」では、カ
 //ートリッジ上部の太陽センサー
 //に太陽の光を当てることにより
@@ -8602,12 +8602,16 @@ Make sunlight hit the
 Solar Sensor on the
 Game Pak & you can enjoy
 many effects in BOKTAI3.
-$C=====2420=====
-「新・ボクらの太陽」では、カ
-ートリッジ上部の太陽センサー
-に太陽の光を当てることにより
-ゲームの中でさまざまな効果を
+$E=====2420=====
+//「新・ボクらの太陽」では、カ
+//ートリッジ上部の太陽センサー
+//に太陽の光を当てることにより
+//ゲームの中でさまざまな効果を
 楽しむことが出来ます。
+Make sunlight hit the
+Solar Sensor on the
+Game Pak & you can enjoy
+many effects in BOKTAI3.
 $E=====2421=====
 //カートリッジ上部にある太陽セ
 //ンサーは、太陽の光の強さを感
@@ -8885,12 +8889,14 @@ $E=====2480=====
 <WEIGHT>Lead Translator</WEIGHT>
 Darth Nemesis
 <WEIGHT>Additional Translation</WEIGHT>
-Rienne
+Rienne    EmosewaMC
 $E=====2481=====
 //<WEIGHT>原案</WEIGHT>
 //小島秀夫
 <WEIGHT>Programming</WEIGHT>
-SpikeMan    Darth Nemesis     LanHikariDS
+SpikeMan    Darth Nemesis
+LanHikariDS    Raphi
+
 <WEIGHT>Localization/Continuity</WEIGHT>
 LordHuffnPuff
 $E=====2482=====
@@ -8917,13 +8923,9 @@ Masatoshi Uehara
 Ryosaku Ueno
 Youta Tsutsumizaki
 Hiroshi Furukawa
-$C=====2485=====
-//
-//小林雅人　　　　栃堀木
-//堀越正弘　　　　山田昌孝
-//大谷時舟
-
-Masato Kobayashi     栃堀木
+$E=====2485===== 
+Masato Kobayashi
+Kiiro Tochibori
 Horikoshi Masahiro
 Masataka Yamada
 Tokifune Otani
@@ -8933,10 +8935,13 @@ $E=====2486=====
 //狩野賢一郎　　　豊田晶
 //藤原宏記
 //奥田雅史
-Akira Toyoda Shinya Ishikawa
-Kenjirou Kano Masafumi Okuta
+<WEIGHT>PROGRAMMING UNIT</WEIGHT>
+Akira Toyoda
+Kenjirou Kano
 Hiroki Fujiwara
 Yoshiteru Kobayashi
+Shinya Ishikawa
+Masafumi Okuta
 $E=====2487=====
 //<WEIGHT>デザインユニット</WEIGHT>
 //寺田ひとみ　　　横山賢治
@@ -8944,19 +8949,23 @@ $E=====2487=====
 //菅家彰
 //樋下田健一
 <WEIGHT>Design Unit</WEIGHT>
-Hitomi Terada Toru Kawakami
-Yokoyama Kenji  Akira Kanke
+Hitomi Terada
+Yokoyama Kenji
 Kenichi Higeta
 Chihoko Uchiyama
+Toru Kawakami
+Akira Kanke
 $E=====2488=====
 //<WEIGHT>サウンドユニット</WEIGHT>
 //野口洋江　　　　小堀修一
 //戸田色音　　　　本田晃弘
 //渡辺雅史
 <WEIGHT>Sound Unit</WEIGHT>
-Hiroe Noguchi Akihiro Honda
-Kobori Shuichi   Irone Toda
+Hiroe Noguchi
+Kobori Shuichi
 Masashi Watanabe
+Akihiro Honda
+Irone Toda
 $E=====2489=====
 //<WEIGHT>パブリシティデザイン</WEIGHT>
 //八代肇
@@ -8967,12 +8976,17 @@ Nobuyoshi Nishimura
 
 <WEIGHT>Publicity Design</WEIGHT>
 Hajime Yashiro
-$C=====2490===== //FIXIT
+$E=====2490=====
 //<WEIGHT>おてんこデザイン</WEIGHT>
+//飯尾史哉　　　　大塚隼人
+//佐藤光輝　　　　鈴木愁季
+//濱屋裕
 <WEIGHT>Otenko Design</WEIGHT>
-飯尾史哉　　　　大塚隼人
-佐藤光輝　　　　鈴木愁季
-濱屋裕
+Fumiya Iio
+Hayato Otsuka
+Mitsuteru Sato
+Shuuki Suzuki
+Hiroshi Hamaya
 $E=====2491=====
 //<WEIGHT>言語アドバイザー</WEIGHT>
 //寺田ひとみ
@@ -8987,11 +9001,15 @@ $E=====2492=====
 <WEIGHT>Production Support</WEIGHT>
 Takeshi Eguchi
 Takaaki Kitamura
-$C=====2493===== //FIXIT
+$E=====2493=====
 //<WEIGHT>プロモーション</WEIGHT>
+//倉野次郎　　　　千葉茂
+//横島恵美子　　　田中裕子
 <WEIGHT>Promotion</WEIGHT>
-倉野次郎　　　　千葉茂
-横島恵美子　　　田中裕子
+Jiro Kurano
+Shigeru Chiba
+Emiko Yokoshima
+Yuko Tanaka
 $E=====2494=====
 //<WEIGHT>制作協力</WEIGHT>
 <WEIGHT>Collaborating Studios</WEIGHT>
@@ -9000,13 +9018,15 @@ $E=====2495=====
 //<WEIGHT>任天堂株式会社</WEIGHT>
 
 <WEIGHT>Nintendo Corporation</WEIGHT>
-$C=====2496===== //FIXIT
+$E=====2496=====
 //<WEIGHT>コロコロコミック編集部</WEIGHT>
+//　佐上靖之
+//　村上孝雄
+//　石関暁
 <WEIGHT>CoroCoro Comic</WEIGHT>
-　佐上靖之
-　村上孝雄
-　石関暁
-
+Yasuyuki Sagami
+Takao Murakami
+Akira Isekise
 $E=====2497=====
 //<WEIGHT>株式会社カプコン</WEIGHT>
 //
@@ -9014,58 +9034,84 @@ $E=====2497=====
 <WEIGHT>Capcom Corporation</WEIGHT>
 
   Keiji Inafune
-$C=====2498===== //FIXIT
-　堀之内健
-　安間正博
-　江口正和
-　穴井俊英
-　佐藤和隆
-　坂野光徳
-$C=====2499===== //FIXIT
-　竹中司
-　松田幸悦
-　田原武文
-　尾崎浩平
-　緒良中隆浩
-$C=====2500===== //FIXIT
+$E=====2498=====
+//　堀之内健
+//　安間正博
+//　江口正和
+//　穴井俊英
+//　佐藤和隆
+//　坂野光徳
+Ken Horinouchi
+Masahiro Anma
+Masakazu Eguchi
+Toshihide Anai
+Kazutaka Sato
+Mitsunori Sakano
+$E=====2499=====
+//　竹中司
+//　松田幸悦
+//　田原武文
+//　尾崎浩平
+//　緒良中隆浩
+Tsukasa Takenaka
+Kouetsu Matsuda
+Takefumi Tahara
+Kohei Ozaki
+Takanao Ooraka
+$E=====2500=====
 //<WEIGHT>赤城乳業株式会社</WEIGHT>
+//　本田文彦
+//　萩原史雄
 <WEIGHT>AKAGI NYUGYO Corporation</WEIGHT>
-　本田文彦
-　萩原史雄
-$C=====2501===== //FIXIT
+Fumihiko Honda
+Fumio Hagiwara
+$E=====2501=====
 //<WEIGHT>有限会社 G</WEIGHT>
+//　楠原美夏
+//　高橋俊之
 <WEIGHT>G Produce Company</WEIGHT>
-　楠原美夏
-　高橋俊之
-$C=====2502===== //FIXIT
-吉池博明　　　　松井博信
-小林政哉　　　　田中修平
-土田裕之　　　　細谷宜史
-$C=====2503===== //FIXIT
-古城宏　　　　　田中智之
-山中智美　　　　宮本知子
-山内恵美子
+Mika Kusuhara
+Toshiyuki Takahashi
+$E=====2502=====
+//吉池博明　　　　松井博信
+//小林政哉　　　　田中修平
+//土田裕之　　　　細谷宜史
+Hiroaki Yoshiike
+Hironobu Matsui
+Masaya Kobayashi
+Shuhei Tanaka
+Hiroyuki Tsuchida
+Yoshifumi Hosoya
+$E=====2503=====
+//古城宏　　　　　田中智之
+//山中智美　　　　宮本知子
+//山内恵美子
+Hiroshi Kojo
+Tomoyuki Tanaka
+Tomomi Yamanaka
+Tomoko Miyamoto
+Emiko Yamauchi
 $E=====2504=====
 //<WEIGHT>ディレクター</WEIGHT>
 //中村如哉
-<WEIGHT>DIRECTOR</WEIGHT>
-Ikuya Nakamura
-<WEIGHT>PRODUCER</WEIGHT>
-Kensuke Yoshitomi
-Hideo Kojima
+<WEIGHT>Special Thanks</WEIGHT>
+Blues          Porojoa
+samiamwork     Ryken
+R93_Sniper     Seren
+ChickenHat     Max
 $E=====2505=====
 //<WEIGHT>プロデューサー</WEIGHT>
 //吉冨賢介
-<WEIGHT>Special Thanks</WEIGHT>
-Blues
+<WEIGHT>DIRECTOR</WEIGHT>
+Ikuya Nakamura
+
+<WEIGHT>PRODUCER</WEIGHT>
+Kensuke Yoshitomi
 $E=====2506=====
 //<WEIGHT>プロデューサー</WEIGHT>
 //小島秀夫
-<WEIGHT>Special Thanks</WEIGHT>
-Porojoa        MAX
-samiamwork     Ryken
-EmosewaMC      Seren
-R93_Sniper
+<WEIGHT>Producer</WEIGHT>
+Hideo Kojima
 $E=====2507=====
 //<WEIGHT>制作/著作</WEIGHT>
 //コナミ株式会社
@@ -11088,7 +11134,7 @@ $E=====3012=====
 <PROC=9>
 <PROC=0>
 <END>
-$E=====3013===== //FIXIT Check line length
+$E=====3013=====
 //<LABEL=RITA>リタ</LABEL>
 //「大地の実やおいしい肉などの
 //生ものは、
@@ -14019,10 +14065,10 @@ $E=====3583=====
 //きりがないんだから・・・
 I swear, there's just no end
 to the killing...
-$E=====3584===== //FIXIT LINE BREAK
+$E=====3584=====
 //手配書を張(は)っておくから、
 //また、お願いね?」
-well, I've posted the Request
+I've posted the Request
 Sheets. Please take care of
 them again, won't you?"
 $E=====3585=====
@@ -41463,6 +41509,7 @@ $E=====9445=====
 $H=====9446=====
 0　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 $H=====9447=====
+//Start of Password Entry values
 あ
 $H=====9448=====
 い
@@ -41601,13 +41648,13 @@ $H=====9514=====
 $H=====9515=====
 アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョヴン
 $H=====9516=====
-あ
+//あ
 $H=====9517=====
-い
+//い
 $H=====9518=====
-う
+//う
 $H=====9519=====
-え
+//え
 $H=====9520=====
 お
 $H=====9521=====
@@ -42425,16 +42472,20 @@ main story mode.
 $E=====9791=====
 <PROC=0>
 <END>
-$H=====9792=====
-　ドバビブベボがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ　!"　　　&'()　　,-./0123456789ヴパピプペポ
-$H=====9793=====
-@ABCDEFGHIJKLMNOPQRSTUVWXYZ　　　　　`abcdefghijklmnopqrstuvwxyzをぁぃぅぇぉゃゅょっ～あいうえおかきくけこ
-$H=====9794=====
-さしすせそたちつてとなにぬねのはひ。「」、・ヲァィゥェォャュョッーアイウエオカキクケコサシスセソ
-$H=====9795=====
-タチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワン　　ふへほまみむめもやゆよらりるれろ
-$H=====9796=====
-わんガギグゲゴザジズゼゾダヂヅデ
+$H=====9792=====//Crossover Battle Name Conversion
+//　ドバビブベボがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ　!"　　　&'()　　,-./0123456789ヴパピプペポ
+　sバビブベボがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ　!"　　　&'()　　X,-./0123456789ヴパピプペポ
+$H=====9793=====//Crossover Battle Name Conversion
+@ABCDEFGHIJKLMNOPQRSTUVWXY:　　　　　`abcdefghijklmnopqrstuvwxyzをぁぃぅぇぉゃゅょっ+あ?う%おかきく&;
+$H=====9794=====//Crossover Battle Name Conversion
+//さしすせそたちつてとなにぬねのはひ。「」、・ヲァィゥェォャュョッーアイウエオカキクケコサシスセソ
+'しすせ())/～な×_ねのはひ。「」、・uァィゥェォャュョッーBCAEDHJIFGLNOKM
+$H=====9795=====Crossover Battle Name Converison
+//タチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワン　　ふへほまみむめもやゆよらりるれろ
+STRPQXYWUVbZc*aedgfhikjpnmoltン　　ふへほまみむめもやゆよらりるれろ
+$H=====9796=====Crossover Battle Name Conversion
+//わんガギグゲゴザジズゼゾダヂヅデ
+わんwvzxyザジズゼゾダヂヅr
 $E=====9797=====
 //通信エラーが発生しました。
 //電源を切ってワイヤレスアダプ
@@ -42469,7 +42520,8 @@ $E=====9803=====
 Connection cancelled.
 $E=====9804=====
 //相手の接続をまっています。
-Waiting for opponent to connect.
+Waiting for opponent to
+connect.
 $E=====9805=====
 //<WEIGHT>「<EXTEND=2>」</WEIGHT>
 //バトルの申し込みがありました
@@ -42824,7 +42876,7 @@ $X=====9922=====
 {C1}{C1}{C1}{C1}{C7}{C7}{C6}{C6}{C6}{C6}{C3}{C6}{C6}{C7}{C1}{C4}{C5}{C1}{C7}{C5}{C3}{C3}{C3}{C3}{C3}{C3}{C6}{C6}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C7}{C7}{C7}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C4}{C4}{C5}{C5}{C6}{C6}{C7}{C7}{C9}{C9}{C3}{C7}{C1}{C1}{C3}{C4}{C5}{C4}{C5}{C6}{C7}{C3}{C3}{C3}{C6}{C3}{C5}{C4}{C1}{00}
 $X=====9923=====
 {FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{01}{00}{0F}{02}{11}{FF}{FF}{00}{01}{FF}{FF}{00}{0F}{FF}{FF}{00}{01}{00}{13}{00}{01}{00}{13}{00}{01}{00}{13}{00}{01}{00}{13}{02}{12}{00}{04}{02}({00}{04}{02}){00}{03}{02}{03}{00}{03}{02}{1F}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{01}{02}{1C}{00}{01}{02}{13}{FF}{FF}{FF}{FF}{00}{16}{02}'{00}{16}{02} {FF}{FF}{FF}{FF}{00}{08}{00}{06}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{14}{02}{0C}{00}{13}{02}{04}{00}{16}{02}*{00}{01}{02}{05}{00}{0D}{02}"{00}{0D}{02}{17}{FF}{FF}{FF}{FF}{00}{14}{02}{0D}{00}{14}{02}{14}{FF}{FF}{FF}{FF}{00}{19}{00}{19}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{0D}{FF}{FF}{00}{0D}{FF}{FF}{00}{0D}{00}{0E}{02}{02}{00}{0E}{02}{0F}{00}{0E}{02}{1D}{00}{0E}{02}{1E}{00}{0D}{02}{01}{00}{0D}{02}{07}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}
-$E=====9924===== //FIXIT WORD WRAP
+$E=====9924=====
 //通常:
 Normal:
 $E=====9925=====
@@ -42948,7 +43000,7 @@ $X=====9966=====
 $X=====9967=====
 {02}{B4}{C1}{C9}{F1}{C5}{02}@{E1}{C0}{C1}{C1}{C1}{C1}{C1}{C1}{00}
 $X=====9968=====
-{02}Z{C3}{C5}{DF}{C9}{02}Z{F1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{CB}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{CB}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}Z{C3}{C5}{DF}{C9}{02}Z{F1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}Z{C3}{C5}{DF}{C9}{02}Z{F1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CB}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}P{C3}{C5}{DF}{C9}{FD}{E1}{02}{9A}{C3}{C5}{DF}{C9}{02}い@{C0}{C1}{C1}{C1}{C1}{C1}{C1}{00}
+{02}Z{C3}{C5}{DF}{CD}{02}Z{F1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}Z{C3}{C5}{DF}{CD}{02}Z{F1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}Z{C3}{C5}{DF}{CD}{02}Z{F1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}P{C3}{C5}{DF}{CD}{FD}{E1}{02}{9A}{C3}{C5}{DF}{CD}{02}い@{C0}{C1}{C1}{C1}{C1}{C1}{C1}{00}
 $X=====9969=====
 {02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{02}{BE}{02}x{02}h{C0}{C0}{C0}{00}
 $X=====9970=====
