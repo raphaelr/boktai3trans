@@ -119,6 +119,7 @@ Block Address:	69EF80
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+THE FOLLOWING SET OF ADDRESSES ONLY APPLY TO THE ORIGINAL JAPANESE VERSION, AND WERE MOVED IN THE TRANSLATION
 ~~~~~Solar Bank 1 (Enter)
 Tile Address:	6D6DD0
 Map Address:	6D8088
@@ -141,6 +142,34 @@ Map Address:	6D8888
 Block Address:	6D7D50
 ~~~~~Dark Loans 3 (Exit)
 Tile Address:	6D6DD0
+Map Address:	6D8A88
+Block Address:	6D7D50
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THE FOLLOWING SET OF ADDRESSES ONLY APPLY TO THE ENGLISH TRANSLATION PATCH, AND WERE MOVED FROM THEIR POSITIONS IN THE ORIGINAL JAPANESE VERSION
+~~~~~Solar Bank 1 (Enter)
+Tile Address:	E88150
+Map Address:	6D8088
+Block Address:	6D7D50
+~~~~~Solar Bank 2 (Use)
+Tile Address:	E88150
+Map Address:	6D8288
+Block Address:	6D7D50
+~~~~~Solar Bank 3 (Exit)
+Tile Address:	E88150
+Map Address:	6D8488
+Block Address:	6D7D50
+~~~~~Dark Loans 1 (Enter)
+Tile Address:	E88150
+Map Address:	6D8688
+Block Address:	6D7D50
+~~~~~Dark Loans 2 (Use)
+Tile Address:	E88150
+Map Address:	6D8888
+Block Address:	6D7D50
+~~~~~Dark Loans 3 (Exit)
+Tile Address:	E88150
 Map Address:	6D8A88
 Block Address:	6D7D50
 
