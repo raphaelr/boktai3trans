@@ -94,7 +94,7 @@ Script_ParseStringRef equ 0x0821aabc
 ; =================================================================================================
 .org 0x081dc6d0
 .area 132
-push {r4, r5, lr}
+push {r4, lr}
 
 ; Set "1st region index of current page"
 ; r4 = page number = *(menu + 0x1c)
@@ -108,6 +108,12 @@ add r2, r4
 ldrb r2, [r2]
 str r2, [r1]
 
+; Erase space for the page name
+mov r0, #5
+mov r1, #4
+mov r2, #20
+mov r3, #2
+bl Menu_EraseRect
 ; Erase space for the region names
 mov r0, #4
 mov r1, #7
@@ -144,33 +150,32 @@ bl Menu_DrawText
 
 ; HACK: Manually change palette of the page name. Menu_DrawChar (called by Menu_DrawText)
 ; will hardcode the palette to 0xf, we want 0x3 to make the page name stand out more
+mov r4, 0xc
+lsl r4, r4, #12 ; r4 = 0xc000 = adjustment for each tile (0xf000 - 0x3000)
+; Set r0 = pointer to row 4 column 5
+;     r1 = pointer to row 5 column 5
+;     r2 = column byte offset/loop variable (38)
 mov r0, #0
 bl Video_GetBackgroundMap
-mov r4, r0      ; r4 = start of tilemap buffer (this is in EWRAM, not VRAM!)
-mov r5, 0xc
-lsl r5, r5, #12 ; r5 = 0xc000 = adjustment for each tile (0xf000 - 0x3000)
-mov r1, #4      ; r1 = row coordinate
+add r0, 0xff
+add r0, #11
+mov r1, r0
+add r1, 0x40
+mov r2, #38
 
-@@row_loop:
-lsl r0, r1, #5  ; r0 = r1 * 0x20 = tile offset of row start
-add r0, #5      ; r0 = tile offset of column start
-lsl r0, #1      ; r0 = byte offset of column start
-add r0, r4      ; r0 = address of column start
-mov r2, #20     ; r2 = loop variable - remaining number of columns to change
+@@loop:
+; Transform row 4
+ldrh r3, [r0, r2]
+sub r3, r4
+strh r3, [r0, r2]
+; Transform row 5
+ldrh r3, [r1, r2]
+sub r3, r4
+strh r3, [r1, r2]
+sub r2, #2
+bge @@loop
 
-@@column_loop:
-ldrh r3, [r0]
-sub r3, r5
-strh r3, [r0]
-add r0, #2
-sub r2, #1
-bne @@column_loop
-
-add r1, #1
-cmp r1, #5
-ble @@row_loop
-
-pop {r4, r5, pc}
+pop {r4, pc}
 .pool
 .endarea
 
